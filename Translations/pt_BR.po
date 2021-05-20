@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DevilutionX\n"
 "POT-Creation-Date: 2021-05-02 00:18+0200\n"
-"PO-Revision-Date: 2021-05-17 20:22-0300\n"
+"PO-Revision-Date: 2021-05-20 20:41-0300\n"
 "Last-Translator: Cyro Dubeux <xorycx@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -1015,13 +1015,13 @@ msgstr "Mana: %i   Dano: n/d"
 msgid "Mana: %i  Dam: 1/3 tgt hp"
 msgstr "Mana: %i  Dano:1/3 vida"
 
-#. TRANSLATORS: %u is a number. Dialog is shown when splitting a stash of Gold.
+#. TRANSLATORS: {:d} is a number. Dialog is shown when splitting a stash of Gold.
 #: Source/control.cpp:1707
 #, c-format
-msgid "You have %u gold piece. How many do you want to remove?"
-msgid_plural "You have %u gold pieces. How many do you want to remove?"
-msgstr[0] "Você tem %u peça de ouro. Quanto quer remover?"
-msgstr[1] "Você tem %u peças de ouro. Quanto quer remover?"
+msgid "You have {:d} gold piece. How many do you want to remove?"
+msgid_plural "You have {:d} gold pieces. How many do you want to remove?"
+msgstr[0] "Você tem {:d} peça de ouro. Quanto quer remover?"
+msgstr[1] "Você tem {:d} peças de ouro. Quanto quer remover?"
 
 #: Source/controls/modifier_hints.cpp:117
 msgid "Menu"
@@ -7695,27 +7695,27 @@ msgstr "Você o encontrou?  Você tem que encontrar Theodore, por favor!  Ele é
 #. TRANSLATORS: Quest text spoken by Little Girl (Quest End)
 #: Source/textdat.cpp:576
 msgid "You found him!  You found him!  Thank you!  Oh Theo, did those nasty bugs scare you?  Hey!  Ugh!  There's something stuck to your fur!  Ick!  Come on, Theo, let's go home!  Thanks again, hero person!|"
-msgstr ""
+msgstr "Você o encontrou! Você o encontrou! Obrigado! Oh Theo, esses insetos nojentos te assustaram? Ei! Ugh! Há algo preso na pele dele! Éca! Vamos, Theo, vamos para casa! Obrigado novamente, herói!|"
 
 #. TRANSLATORS: Quest text spoken by Defiler (Hostile)
 #: Source/textdat.cpp:578
 msgid "We have long lain dormant, and the time to awaken has come.  After our long sleep, we are filled with great hunger.  Soon, now, we shall feed...|"
-msgstr ""
+msgstr "Estamos dormindo há muito tempo e chegou a hora de acordar. Depois do nosso longo sonho, estamos com muita fome. Em breve vamos nos alimentar...|"
 
 #. TRANSLATORS: Quest text spoken by Defiler (Hostile)
 #: Source/textdat.cpp:580
 msgid "Have you been enjoying yourself, little mammal?  How pathetic. Your little world will be no challenge at all.|"
-msgstr ""
+msgstr "Está se divertido, pequeno mamífero?  Que patético. Seu mundinho não será nenhum desafio."
 
 #. TRANSLATORS: Quest text spoken by Defiler (Hostile)
 #: Source/textdat.cpp:582
 msgid "These lands shall be defiled, and our brood shall overrun the fields that men call home.  Our tendrils shall envelop this world, and we will feast on the flesh of its denizens.  Man shall become our chattel and sustenance.|"
-msgstr ""
+msgstr "Estas terras serão contaminadas, e nossa ninhada invadirá os campos que os homens chamam de lar.  Nossos tentáculos envolverão este mundo, e nós nos banquetearemos com a carne de seus habitantes.  O homem se tornará nosso bem e sustento.|"
 
 #. TRANSLATORS: Quest text spoken by Defiler (Hostile)
 #: Source/textdat.cpp:584
 msgid "Ah, I can smell you...you are close! Close! Ssss...the scent of blood and fear...how enticing...|"
-msgstr ""
+msgstr "Ah, eu posso sentir seu cheiro... Você está perto! Perto! Ssss... o cheiro de sangue e medo... que tentador...|"
 
 #. TRANSLATORS: Quest text spoken by Narrator
 #: Source/textdat.cpp:592
