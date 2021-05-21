@@ -406,8 +406,8 @@ msgstr "Jogue sozinho sem exposição na rede."
 
 #: Source/DiabloUI/selconn.cpp:115
 #, c-format
-msgid "Players Supported: %d"
-msgstr "Jogadores suport.: %d"
+msgid "Players Supported: {:d}"
+msgstr "Jogadores suport.: {:d}"
 
 #: Source/DiabloUI/selgame.cpp:85 Source/DiabloUI/selgame.cpp:380
 msgid "Description:"
@@ -559,8 +559,8 @@ msgstr "O anfitrião está executando um jogo diferente de você."
 #. TRANSLATORS: Error message when somebody tries to join a game running another version.
 #: Source/DiabloUI/selgame.cpp:415
 #, c-format
-msgid "Your version %s does not match the host %d.%d.%d."
-msgstr "Sua versão %s não corresponde com a do anfitrião %d.%d.%d."
+msgid "Your version {:s} does not match the host {:d}.{:d}.{:d}."
+msgstr "Sua versão {:s} não corresponde com a do anfitrião {:d}.{:d}.{:d}."
 
 #: Source/DiabloUI/selhero.cpp:123
 msgid "New Hero"
@@ -633,8 +633,8 @@ msgstr "Nome inválido. Um nome não pode conter espaços, caracteres reservados
 
 #: Source/DiabloUI/selhero.cpp:345
 #, c-format
-msgid "Character already exists. Do you want to overwrite \"%s\"?"
-msgstr "O personagem já existe. Você deseja substituir \"%s\"?"
+msgid "Character already exists. Do you want to overwrite \"{:s}\"?"
+msgstr "O personagem já existe. Você deseja substituir \"{:s}\"?"
 
 #. TRANSLATORS: Error Message
 #: Source/DiabloUI/selhero.cpp:358
@@ -683,8 +683,8 @@ msgstr "Apagar herói"
 
 #: Source/DiabloUI/selhero.cpp:622
 #, c-format
-msgid "Are you sure you want to delete the character \"%s\"?"
-msgstr "Tem certeza de que deseja apagar o personagem \"%s\"?"
+msgid "Are you sure you want to delete the character \"{:s}\"?"
+msgstr "Tem certeza de que deseja apagar o personagem \"{:s}\"?"
 
 #: Source/DiabloUI/selyesno.cpp:61 Source/stores.cpp:889
 msgid "Yes"
@@ -758,13 +758,13 @@ msgstr "Erro"
 #: Source/appfat.cpp:117
 #, c-format
 msgid ""
-"%s\n"
+"{:s}\n"
 "\n"
-"The error occurred at: %s line %d"
+"The error occurred at: {:s} line {:d}"
 msgstr ""
-"%s\n"
+"{:s}\n"
 "\n"
-"O erro ocorreu em: %s linha %d"
+"O erro ocorreu em: {:s} linha {:d}"
 
 #. TRANSLATORS: Error Message when diabdat.mpq is broken. Keep values unchanged.
 #: Source/appfat.cpp:137
@@ -777,7 +777,7 @@ msgid ""
 "68f049866b44688a7af65ba766bef75a\n"
 "\n"
 "The problem occurred when loading:\n"
-"%s"
+"{:s}"
 msgstr ""
 "Não foi possível abrir um arquivo necessário.\n"
 "\n"
@@ -786,7 +786,7 @@ msgstr ""
 "68f049866b44688a7af65ba766bef75a\n"
 "\n"
 "O problema ocorreu ao carregar:\n"
-"%s"
+"{:s}"
 
 #: Source/appfat.cpp:146 Source/appfat.cpp:165
 msgid "Data File Error"
@@ -807,10 +807,10 @@ msgstr ""
 #, c-format
 msgid ""
 "Unable to write to location:\n"
-"%s"
+"{:s}"
 msgstr ""
 "Não foi possível gravar no local:\n"
-"%s"
+"{:s}"
 
 #: Source/appfat.cpp:178
 msgid "Read-Only Directory Error"
@@ -881,13 +881,13 @@ msgstr "Enviar mensagem"
 
 #: Source/control.cpp:394 Source/control.cpp:937
 #, c-format
-msgid "%s Skill"
-msgstr "Habilidade de %s"
+msgid "{:s} Skill"
+msgstr "Habilidade de {:s}"
 
 #: Source/control.cpp:397 Source/control.cpp:941
 #, c-format
-msgid "%s Spell"
-msgstr "Feitiço de %s"
+msgid "{:s} Spell"
+msgstr "Feitiço de {:s}"
 
 #: Source/control.cpp:399
 msgid "Damages undead only"
@@ -904,8 +904,8 @@ msgstr "Nível do feitiço %i"
 
 #: Source/control.cpp:409 Source/control.cpp:953
 #, c-format
-msgid "Scroll of %s"
-msgstr "Pergaminho de %s"
+msgid "Scroll of {:s}"
+msgstr "Pergaminho de {:s}"
 
 #: Source/control.cpp:425 Source/control.cpp:970
 #, c-format
@@ -916,8 +916,8 @@ msgstr[1] "%i pergaminhos"
 
 #: Source/control.cpp:429 Source/control.cpp:974 Source/items.cpp:1570
 #, c-format
-msgid "Staff of %s"
-msgstr "Cajado de %s"
+msgid "Staff of {:s}"
+msgstr "Cajado de {:s}"
 
 #: Source/control.cpp:431 Source/control.cpp:976
 #, c-format
@@ -928,8 +928,8 @@ msgstr[1] "%i cargas"
 
 #: Source/control.cpp:441
 #, c-format
-msgid "Spell Hotkey %s"
-msgstr "Atalho de feitiço %s"
+msgid "Spell Hotkey {:s}"
+msgstr "Atalho de feitiço {:s}"
 
 #: Source/control.cpp:913
 msgid "Player friendly"
@@ -941,8 +941,8 @@ msgstr "Hostil a jogadores"
 
 #: Source/control.cpp:918
 #, c-format
-msgid "Hotkey: %s"
-msgstr "Tecla de atalho: %s"
+msgid "Hotkey: {:s}"
+msgstr "Tecla de atalho: {:s}"
 
 #: Source/control.cpp:927
 msgid "Select current spell button"
@@ -965,8 +965,8 @@ msgstr "Pré-requisitos não atendidos"
 
 #: Source/control.cpp:1163
 #, c-format
-msgid "%s, Level: %i"
-msgstr "%s, Nível: %i"
+msgid "{:s}, Level: %i"
+msgstr "{:s}, Nível: %i"
 
 #: Source/control.cpp:1165
 #, c-format
@@ -1053,8 +1053,8 @@ msgstr "Portal da cidade"
 
 #: Source/cursor.cpp:206
 #, c-format
-msgid "from %s"
-msgstr "de %s"
+msgid "from {:s}"
+msgstr "de {:s}"
 
 #: Source/cursor.cpp:231
 msgid "Portal to"
@@ -1178,13 +1178,13 @@ msgstr ""
 
 #: Source/diablo.cpp:283
 #, c-format
-msgid "unrecognized option '%s'\n"
-msgstr "opção não reconhecida '%s'\n"
+msgid "unrecognized option '{:s}'\n"
+msgstr "opção não reconhecida '{:s}'\n"
 
 #: Source/diablo.cpp:671
 #, c-format
-msgid "version %s"
-msgstr "versão %s"
+msgid "version {:s}"
+msgstr "versão {:s}"
 
 #: Source/diablo.cpp:1916
 msgid "-- Network timeout --"
@@ -1202,11 +1202,11 @@ msgstr "Nenhuma ajuda disponível"
 msgid "while in stores"
 msgstr "enquanto estiver em lojas"
 
-#. TRANSLATORS: %s means: Character Name, Game Version, Game Difficulty.
+#. TRANSLATORS: {:s} means: Character Name, Game Version, Game Difficulty.
 #: Source/diablo.cpp:2203
 #, c-format
-msgid "%s, version = %s, mode = %s"
-msgstr "%s, versão = %s, modo = %s"
+msgid "{:s}, version = {:s}, mode = {:s}"
+msgstr "{:s}, versão = {:s}, modo = {:s}"
 
 #: Source/dvlnet/loopback.cpp:113
 msgid "loopback"
@@ -2536,7 +2536,7 @@ msgstr "Cristalino"
 msgid "Doppelganger's"
 msgstr "De Doppelganger"
 
-#. TRANSLATORS: Item suffix section. All items will have a word binding word. (Format: %s of %s - e.g. Rags of Valor)
+#. TRANSLATORS: Item suffix section. All items will have a word binding word. (Format: {:s} of {:s} - e.g. Rags of Valor)
 #: Source/itemdat.cpp:288
 msgid "quality"
 msgstr "de qualidade"
@@ -3368,14 +3368,14 @@ msgstr "Óleo de impermeabilidade"
 #: Source/items.cpp:1527 Source/items.cpp:1569 Source/items.cpp:2161
 #: Source/items.cpp:2180
 #, c-format
-msgid "%s of %s"
-msgstr "%s de %s"
+msgid "{:s} of {:s}"
+msgstr "{:s} de {:s}"
 
-#. TRANSLATORS: %s will be a Character Name
+#. TRANSLATORS: {:s} will be a Character Name
 #: Source/items.cpp:2753 Source/player.cpp:1874
 #, c-format
-msgid "Ear of %s"
-msgstr "Orelha de %s"
+msgid "Ear of {:s}"
+msgstr "Orelha de {:s}"
 
 #: Source/items.cpp:3282 Source/items.cpp:3294
 msgid "increases a weapon's"
@@ -3611,10 +3611,10 @@ msgstr "Cargas extra"
 
 #: Source/items.cpp:3491
 #, c-format
-msgid "%i %s charge"
-msgid_plural "%i %s charges"
-msgstr[0] "%i %s carga"
-msgstr[1] "%i %s cargas"
+msgid "%i {:s} charge"
+msgid_plural "%i {:s} charges"
+msgstr[0] "%i {:s} carga"
+msgstr[1] "%i {:s} cargas"
 
 #: Source/items.cpp:3495
 #, c-format
@@ -4934,8 +4934,8 @@ msgstr "Morto-vivo"
 
 #: Source/monster.cpp:4966
 #, c-format
-msgid "Type: %s  Kills: %i"
-msgstr "Tipo: %s  Mortos: %i"
+msgid "Type: {:s}  Kills: %i"
+msgstr "Tipo: {:s}  Mortos: %i"
 
 #: Source/monster.cpp:4968
 #, c-format
@@ -4973,8 +4973,8 @@ msgstr "Imune a: "
 
 #: Source/monster.cpp:5046
 #, c-format
-msgid "Type: %s"
-msgstr "Tipo: %s"
+msgid "Type: {:s}"
+msgstr "Tipo: {:s}"
 
 #: Source/monster.cpp:5052 Source/monster.cpp:5059
 msgid "No resistances"
@@ -5012,33 +5012,33 @@ msgstr "Está tentando deixar cair um item do chão?"
 #: Source/msg.cpp:1709 Source/msg.cpp:1829 Source/msg.cpp:1850
 #: Source/msg.cpp:1871 Source/msg.cpp:1892
 #, c-format
-msgid "%s has cast an illegal spell."
-msgstr "%s lançou um feitiço ilegal."
+msgid "{:s} has cast an illegal spell."
+msgstr "{:s} lançou um feitiço ilegal."
 
 #: Source/msg.cpp:2228 Source/multi.cpp:859
 #, c-format
-msgid "Player '%s' (level %d) just joined the game"
-msgstr "O jogador '%s' (nível %d) acabou de entrar no jogo"
+msgid "Player '{:s}' (level {:d}) just joined the game"
+msgstr "O jogador '{:s}' (nível {:d}) acabou de entrar no jogo"
 
 #: Source/multi.cpp:262
 #, c-format
-msgid "Player '%s' just left the game"
-msgstr "O jogador '%s' acabou de sair do jogo"
+msgid "Player '{:s}' just left the game"
+msgstr "O jogador '{:s}' acabou de sair do jogo"
 
 #: Source/multi.cpp:265
 #, c-format
-msgid "Player '%s' killed Diablo and left the game!"
-msgstr "O jogador '%s' matou Diablo e saiu do jogo!"
+msgid "Player '{:s}' killed Diablo and left the game!"
+msgstr "O jogador '{:s}' matou Diablo e saiu do jogo!"
 
 #: Source/multi.cpp:269
 #, c-format
-msgid "Player '%s' dropped due to timeout"
-msgstr "O jogador '%s' caiu devido a tempo esgotado"
+msgid "Player '{:s}' dropped due to timeout"
+msgstr "O jogador '{:s}' caiu devido a tempo esgotado"
 
 #: Source/multi.cpp:861
 #, c-format
-msgid "Player '%s' (level %d) is already in the game"
-msgstr "O jogador '%s' (nível %d) já está no jogo"
+msgid "Player '{:s}' (level {:d}) is already in the game"
+msgstr "O jogador '{:s}' (nível {:d}) já está no jogo"
 
 #. TRANSLATORS: Shrine Name Block
 #: Source/objects.cpp:91
@@ -5314,11 +5314,11 @@ msgstr "Urna"
 msgid "Barrel"
 msgstr "Barril"
 
-#. TRANSLATORS: %s will be a name from the Shrine block above
+#. TRANSLATORS: {:s} will be a name from the Shrine block above
 #: Source/objects.cpp:5510
 #, c-format
-msgid "%s Shrine"
-msgstr "Altar %s"
+msgid "{:s} Shrine"
+msgstr "Altar {:s}"
 
 #: Source/objects.cpp:5514
 msgid "Skeleton Tome"
@@ -5388,17 +5388,17 @@ msgstr "Suporte Vil"
 msgid "Slain Hero"
 msgstr "Herói assassinado"
 
-#. TRANSLATORS: %s will either be a chest or a door
+#. TRANSLATORS: {:s} will either be a chest or a door
 #: Source/objects.cpp:5579
 #, c-format
-msgid "Trapped %s"
-msgstr "%s aprisionado"
+msgid "Trapped {:s}"
+msgstr "{:s} aprisionado"
 
 #. TRANSLATORS: If user enabled diablo.ini setting "Disable Crippling Shrines" is set to 1; also used for Na-Kruls leaver
 #: Source/objects.cpp:5585
 #, c-format
-msgid "%s (disabled)"
-msgstr "%s (desativado)"
+msgid "{:s} (disabled)"
+msgstr "{:s} (desativado)"
 
 #: Source/pfile.cpp:219
 msgid "Failed to open player archive for writing."
@@ -5420,11 +5420,11 @@ msgstr "Não é possível ler para salvar o arquivo"
 msgid "Unable to write to save file archive"
 msgstr "Não é possível escrever para salvar o arquivo"
 
-#. TRANSLATORS: Shown if player presses "v" button. %s is player name, %d is level, %s is location
+#. TRANSLATORS: Shown if player presses "v" button. {:s} is player name, {:d} is level, {:s} is location
 #: Source/plrmsg.cpp:73
 #, c-format
-msgid "%s (lvl %d): %s"
-msgstr "%s (nvl %d): %s"
+msgid "{:s} (lvl {:d}): {:s}"
+msgstr "{:s} (nvl {:d}): {:s}"
 
 #: Source/qol/monhealthbar.cpp:35 Source/qol/xpbar.cpp:52
 msgid ""
@@ -5438,8 +5438,8 @@ msgstr ""
 
 #: Source/qol/xpbar.cpp:124
 #, c-format
-msgid "Level %d"
-msgstr "Nível %d"
+msgid "Level {:d}"
+msgstr "Nível {:d}"
 
 #: Source/qol/xpbar.cpp:131 Source/qol/xpbar.cpp:142
 msgid "Experience: "
@@ -5455,8 +5455,8 @@ msgstr "Próximo nível: "
 
 #: Source/qol/xpbar.cpp:150
 #, c-format
-msgid " to Level %d"
-msgstr " para o nível %d"
+msgid " to Level {:d}"
+msgstr " para o nível {:d}"
 
 #. TRANSLATORS: Quest Name Block
 #: Source/quests.cpp:41
@@ -5541,11 +5541,11 @@ msgstr "Uma passagem negra"
 msgid "Unholy Altar"
 msgstr "Altar profano"
 
-#. TRANSLATORS: Used for Quest Portals. %s is a Map Name
+#. TRANSLATORS: Used for Quest Portals. {:s} is a Map Name
 #: Source/quests.cpp:282
 #, c-format
-msgid "To %s"
-msgstr "Para %s"
+msgid "To {:s}"
+msgstr "Para {:s}"
 
 #: Source/quests.cpp:729
 msgid "Quest Log"
@@ -6002,13 +6002,13 @@ msgstr "Pronto"
 
 #: Source/stores.cpp:1130
 #, c-format
-msgid "Talk to %s"
-msgstr "Falar com %s"
+msgid "Talk to {:s}"
+msgstr "Falar com {:s}"
 
 #: Source/stores.cpp:1134
 #, c-format
-msgid "Talking to %s"
-msgstr "Falar com %s"
+msgid "Talking to {:s}"
+msgstr "Falar com {:s}"
 
 #: Source/stores.cpp:1136
 msgid "is not available"
@@ -7726,6 +7726,11 @@ msgid ""
 " \n"
 "The stone was of this world -- and of all worlds -- as the Light is both within all things and beyond all things. Light and unity are the products of this holy foundation, a unity of purpose and a unity of possession.|"
 msgstr ""
+"E no ano da Luz Dourada, foi decretado que uma grande Catedral fosse erguida. A pedra angular deste lugar sagrado deveria ser esculpida na pedra translúcida Antyrael, em homenagem ao Anjo que compartilhava seu poder com os Horadrim.  \n"
+" \n"
+"No Ano do Desenho das Sombras, o chão tremeu e a Catedral se partiu e caiu. Quando a construção das catacumbas e castelos começaram e o homem se ergueu contra as devastações da Guerra do Pecado, as ruínas foram escavadas em busca de suas pedras. E foi assim que a pedra angular desapareceu dos olhos do homem. \n"
+" \n"
+"A pedra era deste mundo, e de todos os mundos, já que a Luz está dentro de todas as coisas e além de todas as coisas. A luz e unidade são os produtos desta fundação sagrada, uma unidade de propósito e uma unidade de posse.|"
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:594
