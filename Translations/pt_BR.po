@@ -7750,32 +7750,32 @@ msgstr "Olhe, eu só sou uma vaca, certo?|"
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:597
 msgid "All right, all right.  I'm not really a cow.  I don't normally go around like this; but, I was sitting at home minding my own business and all of a sudden these bugs & vines & bulbs & stuff started coming out of the floor... it was horrible!  If only I had something normal to wear, it wouldn't be so bad.  Hey!  Could you go back to my place and get my suit for me?  The brown one, not the gray one, that's for evening wear.  I'd do it myself, but I don't want anyone seeing me like this.  Here, take this, you might need it... to kill those things that have overgrown everything.  You can't miss my house, it's just south of the fork in the river... you know... the one with the overgrown vegetable garden.|"
-msgstr ""
+msgstr "Tudo bem, tudo bem. Eu não sou realmente uma vaca. Eu não costumo andar assim; mas, eu estava sentado em casa cuidando da minha própria vida e, de repente, esses insetos, videiras, bulbos e coisas começaram a sair do chão... foi horrível! Se eu tivesse algo normal para vestir, não seria tão ruim assim. Ei! Você poderia voltar para minha casa e me trazer meu traje? O marrom, não o cinza, é para a noite. Eu mesmo pegaria, mas não quero que ninguém me veja assim. Aqui, pegue isso, você pode precisar... para matar aquelas coisas que cresceram em tudo.  Você vai achar a minha casa, é ao sul da bifurcação no rio... Você sabe... aquela com a horta crescida.|"
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:599
 msgid "What are you wasting time for?  Go get my suit!  And hurry!  That Holstein over there keeps winking at me! |"
-msgstr ""
+msgstr "Por que está perdendo tempo?  Vai pegar meu traje!  E rápido!  Aquele Holstein ali não para de piscar para mim!"
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:601
 msgid "Hey, have you got my suit there?  Quick, pass it over!  These ears itch like you wouldn't believe!|"
-msgstr ""
+msgstr "Ei, você está com meu traje aí?  Rápido, passa para cá!  Essas orelhas coçam de forma inacreditável!|"
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:603
 msgid "No no no no!  This is my GRAY suit!  It's for evening wear!  Formal occasions!  I can't wear THIS.  What are you, some kind of weirdo?  I need the BROWN suit.|"
-msgstr ""
+msgstr "Não, não, não, não!  Este é o meu traje CINZA!  É para noite!  Ocasiões formais!  Não posso usar isso.  O que você é, algum tipo de esquisitão?  Preciso do traje MARROM.|"
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:605
 msgid "Ahh, that's MUCH better.  Whew!  At last, some dignity!  Are my antlers on straight?  Good.  Look, thanks a lot for helping me out.  Here, take this as a gift; and, you know... a little fashion tip... you could use a little... you could use a new... yknowwhatImean?  The whole adventurer motif is just so... retro.  Just a word of advice, eh?  Ciao.|"
-msgstr ""
+msgstr "Ahh, isso é muito melhor.  Ufa!  Finalmente, alguma dignidade!  Meus chifres estão alinhados?  Bom.  Olha, muito obrigado por me ajudar.  Aqui, tome isso como um presente; e, você sabe... uma pequena dica de moda... você poderia usar um pouco... você poderia usar um novo... sabe o que quero dizer?  Todo o tema de aventureiro é tão... retrô.  Só um conselho, hein?  Tchau.|"
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:607
 msgid "Look.  I'm a cow.  And you, you're monster bait. Get some experience under your belt!  We'll talk...|"
-msgstr ""
+msgstr "Olhe.  Eu sou uma vaca.  E você, você é uma isca de monstro. Obtenha alguma experiência!  E depois nos falamos...|"
 
 #: Source/textdat.cpp:609
 msgid "|"
@@ -7784,7 +7784,7 @@ msgstr "|"
 #. TRANSLATORS: Quest text spoken by Farmer
 #: Source/textdat.cpp:610
 msgid "It must truly be a fearsome task I've set before you. If there was just some way that I could... would a flagon of some nice, fresh milk help?|"
-msgstr ""
+msgstr "Deve ser realmente uma tarefa terrível que coloquei diante de você. Se houvesse algo que eu pudesse... uma jarra de leite fresco ajudaria?|"
 
 #. TRANSLATORS: Quest text spoken by Farmer
 #: Source/textdat.cpp:612
@@ -7927,7 +7927,7 @@ msgstr "Lester, o fazendeiro"
 
 #: Source/towners.cpp:277
 msgid "Complete Nut"
-msgstr "Porca completa"
+msgstr "Maluco completo"
 
 #: Source/towners.cpp:304
 msgid "Slain Townsman"
