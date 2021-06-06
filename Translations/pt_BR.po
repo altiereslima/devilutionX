@@ -7755,7 +7755,7 @@ msgstr "Tudo bem, tudo bem. Eu não sou realmente uma vaca. Eu não costumo anda
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:599
 msgid "What are you wasting time for?  Go get my suit!  And hurry!  That Holstein over there keeps winking at me! |"
-msgstr "Por que está perdendo tempo?  Vai pegar meu traje!  E rápido!  Aquele Holstein ali não para de piscar para mim!"
+msgstr "Por que está perdendo tempo?  Vai pegar meu traje!  E rápido!  Aquele Holstein ali não para de piscar para mim! |"
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:601
