@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DevilutionX\n"
 "POT-Creation-Date: 2021-05-02 00:18+0200\n"
-"PO-Revision-Date: 2021-06-27 20:40-0300\n"
-"Last-Translator: Cyro Dubeux <xorycx@gmail.com>\n"
+"PO-Revision-Date: 2021-07-04 13:46-0300\n"
+"Last-Translator: Altieres Lima da Silva <altieres.lima@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -529,7 +529,7 @@ msgid ""
 "The denizens of the Labyrinth have been hastened and will prove to be a greater challenge. This is recommended for experienced characters only."
 msgstr ""
 "Velocidade: Rápido\n"
-"Os habitantes do Labirinto foram apressados ​​e provarão ser um desafio maior. Isso é recomendado apenas para personagens experientes."
+"Os habitantes do Labirinto foram apressados e provarão ser um desafio maior. Isso é recomendado apenas para personagens experientes."
 
 #: Source/DiabloUI/selgame.cpp:342
 msgid ""
@@ -3492,7 +3492,7 @@ msgstr "Óleo de impermeabilidade"
 #: Source/items.cpp:1529 Source/items.cpp:1571 Source/items.cpp:2166
 #: Source/items.cpp:2185
 msgid "{:s} of {:s}"
-msgstr "{:s} de {:s}"
+msgstr "{:s} {:s}"
 
 #. TRANSLATORS: {:s} will be a Character Name
 #: Source/items.cpp:2749 Source/player.cpp:1889
@@ -5579,7 +5579,7 @@ msgstr "Pedra angular do mundo"
 #. TRANSLATORS: Quest Name Block end
 #: Source/quests.cpp:66
 msgid "The Jersey's Jersey"
-msgstr "Jersey de Jersey"
+msgstr "A Fantasia de Jersey"
 
 #. TRANSLATORS: Quest Map
 #: Source/quests.cpp:80
@@ -7793,7 +7793,7 @@ msgstr "Olhe, eu só sou uma vaca, certo?"
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:597
 msgid "All right, all right.  I'm not really a cow.  I don't normally go around like this; but, I was sitting at home minding my own business and all of a sudden these bugs & vines & bulbs & stuff started coming out of the floor... it was horrible!  If only I had something normal to wear, it wouldn't be so bad.  Hey!  Could you go back to my place and get my suit for me?  The brown one, not the gray one, that's for evening wear.  I'd do it myself, but I don't want anyone seeing me like this.  Here, take this, you might need it... to kill those things that have overgrown everything.  You can't miss my house, it's just south of the fork in the river... you know... the one with the overgrown vegetable garden."
-msgstr "Tudo bem, tudo bem. Eu não sou realmente uma vaca. Eu não costumo andar assim; mas, eu estava sentado em casa cuidando da minha própria vida e, de repente, esses insetos, videiras, bulbos e coisas começaram a sair do chão... foi horrível! Se eu tivesse algo normal para vestir, não seria tão ruim assim. Ei! Você poderia voltar para minha casa e me trazer meu traje? O marrom, não o cinza, é para a noite. Eu mesmo pegaria, mas não quero que ninguém me veja assim. Aqui, pegue isso, você pode precisar... para matar aquelas coisas que cresceram em tudo.  Você vai achar a minha casa, é ao sul da bifurcação no rio... Você sabe... aquela com a horta crescida."
+msgstr "Tudo bem, tudo bem. Eu não sou realmente uma vaca. Eu não costumo andar assim; mas, eu estava sentado em casa cuidando da minha própria vida e, de repente, esses insetos, videiras, bulbos e coisas começaram a sair do chão... foi horrível! Se eu tivesse algo normal para vestir, não seria tão ruim assim. Ei! Você poderia voltar para minha casa e me trazer meu traje? O marrom, não o cinza, é para ocasiões noturnas. Eu mesmo pegaria, mas não quero que ninguém me veja assim. Aqui, pegue isso, você pode precisar... para matar aquelas coisas que cresceram em tudo.  Você vai achar a minha casa, é ao sul da bifurcação no rio... Você sabe... aquela com a horta crescida."
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:599
@@ -7828,42 +7828,42 @@ msgstr "Deve ser realmente uma tarefa terrível que coloquei diante de você. Se
 #. TRANSLATORS: Quest text spoken by Farmer
 #: Source/textdat.cpp:612
 msgid "Oh, I could use your help, but perhaps after you've saved the catacombs from the desecration of those beasts."
-msgstr ""
+msgstr "Oh, eu poderia usar sua ajuda, mas só depois que você salvar as catacumbas da profanação daquelas bestas."
 
 #. TRANSLATORS: Quest text spoken by Farmer
 #: Source/textdat.cpp:614
 msgid "I need something done, but I couldn't impose on a perfect stranger. Perhaps after you've been here a while I might feel more comfortable asking a favor."
-msgstr ""
+msgstr "Eu preciso que algo seja feito, mas não posso impor isso a um estranho. Talvez depois de você estiver aqui por um tempo eu me sinta mais confortável pedindo um favor."
 
 #. TRANSLATORS: Quest text spoken by Farmer
 #: Source/textdat.cpp:616
 msgid "I see in you the potential for greatness.  Perhaps sometime while you are fulfilling your destiny, you could stop by and do a little favor for me?"
-msgstr ""
+msgstr "Vejo em você o potencial da grandeza.  Talvez em algum momento enquanto estiver cumprindo seu destino, você poderia parar e fazer um pequeno favor para mim?"
 
 #. TRANSLATORS: Quest text spoken by Farmer
 #: Source/textdat.cpp:618
 msgid "I think you could probably help me, but perhaps after you've gotten a little more powerful. I wouldn't want to injure the village's only chance to destroy the menace in the church!"
-msgstr ""
+msgstr "Eu acho que você provavelmente poderia me ajudar, mas talvez depois que você ficar um pouco mais poderoso. Eu não gostaria de prejudicar a única oportunidade da vila de destruir a ameaça na igreja!"
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:620
 msgid "Me, I'm a self-made cow.  Make something of yourself, and... then we'll talk."
-msgstr ""
+msgstr "Eu sou uma vaca auto-criada.  Faça algo de si mesmo e... depois nos falamos."
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:622
 msgid "I don't have to explain myself to every tourist that walks by!  Don't you have some monsters to kill?  Maybe we'll talk later.  If you live..."
-msgstr ""
+msgstr "Eu não tenho que dar explicações para todos os turistas que passam por aqui!  Você não tem alguns monstros para matar?  Talvez nos falemos mais tarde.  Se você sobreviver..."
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:624
 msgid "Quit bugging me.  I'm looking for someone really heroic.  And you're not it.  I can't trust you, you're going to get eaten by monsters any day now... I need someone who's an experienced hero."
-msgstr ""
+msgstr "Pare de me incomodar.  Estou procurando alguém muito heroico.  E você não é.  Não posso confiar em você, pois será devorado por monstros a qualquer momento... Preciso de alguém que seja um herói experiente."
 
 #. TRANSLATORS: Quest text spoken by Complete Nut
 #: Source/textdat.cpp:626
 msgid "All right, I'll cut the bull.  I didn't mean to steer you wrong.  I was sitting at home, feeling moo-dy, when things got really un-stable; a whole stampede of monsters came out of the floor!  I just cowed.  I just happened to be wearing this Jersey when I ran out the door, and now I look udderly ridiculous.  If only I had something normal to wear, it wouldn't be so bad.  Hey!  Can you go back to my place and get my suit for me?  The brown one, not the gray one, that's for evening wear.  I'd do it myself, but I don't want anyone seeing me like this.  Here, take this, you might need it... to kill those things that have overgrown everything.  You can't miss my house, it's just south of the fork in the river... you know... the one with the overgrown vegetable garden."
-msgstr ""
+msgstr "Tudo bem, vou parar de besteiras.  Eu não queria te enganar.  Eu estava sentado em casa, sentindo muu-ito mal, quando as coisas ficaram realmente instáveis; uma debandada inteira de monstros saiu do chão!  Eu me acovardei.  Aconteceu de eu estar usando esta fantasia quando corri para fora da porta, e agora eu pareço ridículo.  Se eu tivesse algo normal para vestir, não seria tão ruim.  Ei!  Pode voltar para minha casa e pegar meu traje para mim?  O marrom, não o cinza, é para ocasiões noturnas. Eu mesmo pegaria, mas não quero que ninguém me veja assim. Aqui, pegue isso, você pode precisar... para matar aquelas coisas que cresceram em tudo.  Você vai achar a minha casa, é ao sul da bifurcação no rio... Você sabe... aquela com a horta crescida."
 
 #. TRANSLATORS: Quest text spoken by Unknown, Maybe Farmer
 #: Source/textdat.cpp:628
