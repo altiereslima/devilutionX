@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DevilutionX\n"
 "POT-Creation-Date: 2021-05-02 00:18+0200\n"
-"PO-Revision-Date: 2021-07-04 13:46-0300\n"
+"PO-Revision-Date: 2021-07-11 10:39-0300\n"
 "Last-Translator: Altieres Lima da Silva <altieres.lima@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -1579,15 +1579,15 @@ msgstr "Shift + clique esquerdo: Atacar sem se mover"
 
 #: Source/help.cpp:40
 msgid "Shift + Left Mouse Button (on character screen): Assign all stat points"
-msgstr ""
+msgstr "Shift + clique esquerdo (na tela de personagem): Atribuir todos os pontos de estatística"
 
 #: Source/help.cpp:41
 msgid "Shift + Left Mouse Button (on inventory): Move item to belt or equip/unequip item"
-msgstr ""
+msgstr "Shift + clique esquerdo (no inventário): Mover item para cinto ou equipar/desequipar item"
 
 #: Source/help.cpp:42
 msgid "Shift + Left Mouse Button (on belt): Move item to inventory"
-msgstr ""
+msgstr "Shift + clique esquerdo (no cinto): Mover item para inventário"
 
 #: Source/help.cpp:44
 msgid "$Movement:"
@@ -1647,7 +1647,7 @@ msgstr "Ao clicar com o botão esquerdo no botão 'feitiço preparado' será abe
 
 #: Source/help.cpp:81
 msgid "Shift + Left-clicking on the 'select current spell' button will clear the readied spell"
-msgstr ""
+msgstr "Shift + clique esquerdo em 'Selecionar feitiço atual' irá limpar o feitiço preparado"
 
 #: Source/help.cpp:83
 msgid "$Setting Spell Hotkeys"
@@ -5497,6 +5497,9 @@ msgid ""
 "\n"
 "Make sure devilutionx.mpq is in the game folder and that it is up to date."
 msgstr ""
+"Falha ao carregar recursos de interface do usuário.\n"
+"\n"
+"Certifique-se de que o arquivo devilutionx.mpq esteja na pasta do jogo e de que esteja atualizado."
 
 #: Source/qol/xpbar.cpp:126
 msgid "Level {:d}"
@@ -7868,32 +7871,32 @@ msgstr "Tudo bem, vou parar de besteiras.  Eu não queria te enganar.  Eu estava
 #. TRANSLATORS: Quest text spoken by Unknown, Maybe Farmer
 #: Source/textdat.cpp:628
 msgid "Cloudy and cooler today.  Casting the nets of necromancy across the void landed two new subspecies of flying horror; a good day's work.  Must remember to order some more bat guano and black candles from Adria; I'm running a bit low."
-msgstr ""
+msgstr "Está nublado e fresco hoje.  Lançar as redes de necromancia através do vazio aterrou duas novas subespécies de terror voador; um bom dia de trabalho.  Tenho de me lembrar de pedir mais guano de morcego e velas pretas para Ádria; Estou ficando com pouco."
 
 #. TRANSLATORS: Quest text read aloud from book
 #: Source/textdat.cpp:630
 msgid "I have tried spells, threats, abjuration and bargaining with this foul creature -- to no avail.  My methods of enslaving lesser demons seem to have no effect on this fearsome beast."
-msgstr ""
+msgstr "Tentei feitiços, ameaças, abjuração e negociação com esta criatura nojenta, sem sucesso.  Meus métodos de escravizar demônios menores parecem não ter efeito sobre esta besta temível."
 
 #. TRANSLATORS: Quest text read aloud from book
 #: Source/textdat.cpp:632
 msgid "My home is slowly becoming corrupted by the vileness of this unwanted prisoner.  The crypts are\tfull of shadows that move just beyond the corners of my vision.  The faint scrabble of claws dances at the edges of my hearing. They are searching, I think, for this journal."
-msgstr ""
+msgstr "Minha casa está lentamente se deteriorando devido a vileza deste prisioneiro indesejado.  As criptas estão cheias de sombras que se movem além dos cantos da minha percepção.  O leve ranger das garras dança nas bordas da minha audição. Eu acho que eles estão procurando por este diário."
 
 #. TRANSLATORS: Quest text read aloud from book
 #: Source/textdat.cpp:634
 msgid "In its ranting, the creature has let slip its name -- Na-Krul.  I have attempted to research the name, but the smaller demons have somehow destroyed my library.  Na-Krul... The name fills me with a cold dread.  I prefer to think of it only as The Creature rather than ponder its true name."
-msgstr ""
+msgstr "Em suas conversas, a criatura deixou escapar seu nome: Na-Krul.  Tentei pesquisar o nome, mas os demônios menores de alguma forma destruíram minha biblioteca.  Na-Krul... O nome me enche de medo.  Prefiro pensar nele apenas como 'A Criatura', em vez de refletir sobre seu nome verdadeiro."
 
 #. TRANSLATORS: Quest text read aloud from book
 #: Source/textdat.cpp:636
 msgid "The entrapped creature's howls of fury keep me from gaining much needed sleep.  It rages against the one who sent it to the Void, and it calls foul curses upon me for trapping it here.  Its words fill my heart with terror, and yet I cannot block out its voice."
-msgstr ""
+msgstr "Os uivos de fúria da criatura aprisionada me impedem de dormir.  Ela se enfurece contra aquele que a enviou para o Vazio, e me lança horríveis maldições por prendê-la aqui.  Suas palavras enchem meu coração de terror, e ainda assim não posso bloquear sua voz."
 
 #. TRANSLATORS: Quest text read aloud from book
 #: Source/textdat.cpp:638
 msgid "My time is quickly running out.  I must record the ways to weaken the demon, and then conceal that text, lest his minions find some way to use my knowledge to free their lord.  I hope that whoever finds this journal will seek the knowledge."
-msgstr ""
+msgstr "Meu tempo está se esgotando rapidamente.  Devo registrar as maneiras de enfraquecer o demônio, e então esconder esse texto, para que seus servos não encontrem alguma maneira de usar meu conhecimento para libertar seu senhor.  Espero que quem encontrar este diário busque o conhecimento."
 
 #. TRANSLATORS: Quest text read aloud from book
 #: Source/textdat.cpp:640
