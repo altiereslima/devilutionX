@@ -21,7 +21,6 @@ include(FetchContent)
 
 FetchContent_Declare(SDL_image
   URL https://github.com/libsdl-org/SDL_image/archive/refs/tags/release-2.0.5.tar.gz
-  URL_HASH MD5=f64523d534394285a4203f70cc80b913
 )
 FetchContent_MakeAvailableExcludeFromAll(SDL_image)
 
