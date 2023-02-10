@@ -4482,6 +4482,13 @@ std::string DebugSpawnUniqueItem(std::string itemName)
 }
 #endif
 
+bool Item::isUsable() const
+{
+	if (IDidx == IDI_SPECELIX && Quests[Q_MUSHROOM]._qactive != QUEST_DONE)
+		return false;
+	return AllItemsList[IDidx].iUsable;
+}
+
 void Item::setNewAnimation(bool showAnimation)
 {
 	int8_t it = ItemCAnimTbl[_iCurs];
