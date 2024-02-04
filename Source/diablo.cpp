@@ -1804,7 +1804,7 @@ void InitKeymapActions()
 	sgOptions.Keymapper.AddAction(
 	    "CycleAutomapType",
 	    N_("Cycle map type"),
-	    N_("Opaque -> Transparent -> Minimap -> None"),
+	    N_("Minimap -> Opaque -> Transparent -> None"),
 	    SDLK_m,
 	    CycleAutomapType,
 	    nullptr,

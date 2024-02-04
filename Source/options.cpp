@@ -38,10 +38,10 @@
 namespace devilution {
 
 #ifndef DEFAULT_WIDTH
-#define DEFAULT_WIDTH 640
+#define DEFAULT_WIDTH 800
 #endif
 #ifndef DEFAULT_HEIGHT
-#define DEFAULT_HEIGHT 480
+#define DEFAULT_HEIGHT 600
 #endif
 #ifndef DEFAULT_AUDIO_SAMPLE_RATE
 #define DEFAULT_AUDIO_SAMPLE_RATE 22050

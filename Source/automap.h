@@ -81,11 +81,11 @@ enum class AmLineLength : uint8_t {
 };
 
 enum class AutomapType : uint8_t {
-	Opaque,
-	FIRST = Opaque,
-	Transparent,
 	Minimap,
-	LAST = Minimap
+	FIRST = Minimap,
+	Opaque,
+	Transparent,
+	LAST = Transparent
 };
 
 extern DVL_API_FOR_TEST AutomapType CurrentAutomapType;

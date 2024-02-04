@@ -1578,8 +1578,8 @@ msgid "Cycle map type"
 msgstr "Alterar tipo de mapa."
 
 #: Source/diablo.cpp:1807
-msgid "Opaque -> Transparent -> Minimap -> None"
-msgstr "Opaco -> Transparente -> Minimapa -> Nenhum"
+msgid "Minimap -> Opaque -> Transparent -> None"
+msgstr "Minimapa -> Opaco -> Transparente -> Nenhum"
 
 #: Source/diablo.cpp:1816 Source/diablo.cpp:2149
 msgid "Open Inventory screen."
