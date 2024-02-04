@@ -1133,7 +1133,7 @@ void DiabloInitScreen()
 
 void SetApplicationVersions()
 {
-	*BufCopy(gszProductName, PROJECT_NAME, " v", PROJECT_VERSION) = '\0';
+	*BufCopy(gszProductName, " Diablo v1.6.0") = '\0';
 	*BufCopy(gszVersionNumber, "version ", PROJECT_VERSION) = '\0';
 }
 
@@ -2014,7 +2014,7 @@ void InitPadmapActions()
 	    "PrimaryAction",
 	    N_("Primary action"),
 	    N_("Attack monsters, talk to towners, lift and place inventory items."),
-	    ControllerButton_BUTTON_B,
+	    ControllerButton_BUTTON_A,
 	    [] {
 		    ControllerActionHeld = GameActionType_PRIMARY_ACTION;
 		    LastMouseButtonAction = MouseActionType::None;
@@ -2029,7 +2029,7 @@ void InitPadmapActions()
 	    "SecondaryAction",
 	    N_("Secondary action"),
 	    N_("Open chests, interact with doors, pick up items."),
-	    ControllerButton_BUTTON_Y,
+	    ControllerButton_BUTTON_X,
 	    [] {
 		    ControllerActionHeld = GameActionType_SECONDARY_ACTION;
 		    LastMouseButtonAction = MouseActionType::None;
@@ -2044,7 +2044,7 @@ void InitPadmapActions()
 	    "SpellAction",
 	    N_("Spell action"),
 	    N_("Cast the active spell."),
-	    ControllerButton_BUTTON_X,
+	    ControllerButton_BUTTON_Y,
 	    [] {
 		    ControllerActionHeld = GameActionType_CAST_SPELL;
 		    LastMouseButtonAction = MouseActionType::None;
@@ -2059,7 +2059,7 @@ void InitPadmapActions()
 	    "CancelAction",
 	    N_("Cancel action"),
 	    N_("Close menus."),
-	    ControllerButton_BUTTON_A,
+	    ControllerButton_BUTTON_B,
 	    [] {
 		    if (DoomFlag) {
 			    doom_close();
@@ -2177,7 +2177,7 @@ void InitPadmapActions()
 	    "DisplaySpells",
 	    N_("Speedbook"),
 	    N_("Open Speedbook."),
-	    ControllerButton_BUTTON_A,
+	    ControllerButton_BUTTON_B,
 	    [] {
 		    ProcessGameAction(GameAction { GameActionType_TOGGLE_QUICK_SPELL_MENU });
 	    },
