@@ -1846,25 +1846,12 @@ void printItemMiscGenericGamepad(const Item &item, const bool isOil, bool isCast
 
 void printItemMiscGamepad(const Item &item, bool isOil, bool isCastOnTarget)
 {
-	std::string_view activateButton;
-	std::string_view castButton;
-	switch (GamepadType) {
-	case GamepadLayout::Generic:
+	if (GamepadType == GamepadLayout::Generic) {
 		printItemMiscGenericGamepad(item, isOil, isCastOnTarget);
 		return;
-	case GamepadLayout::Xbox:
-		activateButton = controller_button_icon::Xbox_X;
-		castButton = controller_button_icon::Xbox_X;
-		break;
-	case GamepadLayout::PlayStation:
-		activateButton = controller_button_icon::Playstation_Triangle;
-		castButton = controller_button_icon::Playstation_Square;
-		break;
-	case GamepadLayout::Nintendo:
-		activateButton = controller_button_icon::Nintendo_X;
-		castButton = controller_button_icon::Nintendo_X;
-		break;
 	}
+	const std::string_view activateButton = ToString(ControllerButton_BUTTON_X);
+	const std::string_view castButton = ToString(ControllerButton_BUTTON_X);
 
 	if (item._iMiscId == IMISC_MAPOFDOOM) {
 		AddPanelString(fmt::format(fmt::runtime(_("{} to view")), activateButton));
@@ -2296,11 +2283,8 @@ StringOrView GetTranslatedItemName(const Item &item)
 	if (item._iCreateInfo == 0) {
 		return _(baseItemData.iName);
 	} else if (item._iMiscId == IMISC_BOOK) {
-		std::string name;
 		const std::string_view spellName = pgettext("spell", GetSpellData(item._iSpell).sNameText);
-		StrAppend(name, _(baseItemData.iName));
-		StrAppend(name, spellName);
-		return name;
+		return fmt::format(fmt::runtime(_(/* TRANSLATORS: {:s} will be a spell name */ "Book of {:s}")), spellName);
 	} else if (item._iMiscId == IMISC_EAR) {
 		return fmt::format(fmt::runtime(_(/* TRANSLATORS: {:s} will be a Character Name */ "Ear of {:s}")), item._iIName);
 	} else if (item._iMiscId > IMISC_OILFIRST && item._iMiscId < IMISC_OILLAST) {
