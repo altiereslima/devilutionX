@@ -847,11 +847,11 @@ msgstr "Desatribuir tecla"
 
 #: Source/DiabloUI/settingsmenu.cpp:477
 msgid "Bound button combo:"
-msgstr "Combinação de botões associada:"
+msgstr "Combinação de botões de atribuição:"
 
 #: Source/DiabloUI/settingsmenu.cpp:486
 msgid "Unbind button combo"
-msgstr "Combinação de botões desassociada"
+msgstr "Combinação de botões de desatribuição"
 
 #: Source/DiabloUI/settingsmenu.cpp:530 Source/gamemenu.cpp:68
 msgid "Previous Menu"
@@ -4309,12 +4309,12 @@ msgstr ""
 
 #: Source/options.cpp:1051
 msgid "Full quests in Multiplayer"
-msgstr "Todas as missões no modo Multijogador"
+msgstr "Missões completas no multijogador"
 
 #: Source/options.cpp:1051
 msgid "Enables the full/uncut singleplayer version of quests."
 msgstr ""
-"Permite jogar a versão completa e sem cortes das missões de jogador único."
+"Permite jogar a versão completa e sem cortes das missões para jogador único."
 
 #: Source/options.cpp:1052
 msgid "Test Bard"
