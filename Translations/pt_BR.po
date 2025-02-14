@@ -650,7 +650,7 @@ msgstr "Velocidade: A Mais Rápida"
 
 #: Source/DiabloUI/multi/selgame.cpp:265
 msgid "Players: "
-msgstr "Jogadores:"
+msgstr "Jogadores: "
 
 #: Source/DiabloUI/multi/selgame.cpp:327
 msgid "Select Difficulty"
@@ -819,7 +819,7 @@ msgstr "\tEsta adaptação utiliza Charis SIL, New Athena Unicode, Unifont e Not
 
 #: Source/DiabloUI/title.cpp:59
 msgid "Copyright © 1996-2001 Blizzard Entertainment"
-msgstr "Copyright © 1996-2001 Blizzard Entertainment"
+msgstr "Copyright © 1996-2025 Blizzard Entertainment"
 
 #: Source/appfat.cpp:52
 msgid "Error"
@@ -1773,7 +1773,7 @@ msgstr "Jogo Salvo"
 
 #: Source/diablo_msg.cpp:63
 msgid "No multiplayer functions in demo"
-msgstr "Sem funções multijogador na demonstração (demo)"
+msgstr "Sem funções multijogador na demonstração"
 
 #: Source/diablo_msg.cpp:64
 msgid "Direct Sound Creation Failed"
@@ -3283,12 +3283,12 @@ msgstr "Morto-Vivo"
 #: Source/monster.cpp:4310
 #, c++-format
 msgid "Type: {:s}  Kills: {:d}"
-msgstr "Tipo: {:s}  Mortes: {:d}"
+msgstr "Tipo: {:s}  Mortos: {:d}"
 
 #: Source/monster.cpp:4312
 #, c++-format
 msgid "Total kills: {:d}"
-msgstr "Total de mortes: {:d}"
+msgstr "Matou um total de: {:d}"
 
 #: Source/monster.cpp:4344
 #, c++-format
@@ -3454,7 +3454,7 @@ msgstr "Sagrado"
 
 #: Source/objects.cpp:139
 msgid "Sacred"
-msgstr "Consagrado"
+msgstr "Sagrado"
 
 #: Source/objects.cpp:140
 msgid "Spiritual"
@@ -4697,7 +4697,7 @@ msgstr "Dano: {:d}-{:d}  "
 #: Source/stores.cpp:311
 #, c++-format
 msgid "Armor: {:d}  "
-msgstr "Armadura: {:d}  "
+msgstr "Armad.: {:d}  "
 
 #: Source/stores.cpp:313
 #, c++-format
@@ -7088,7 +7088,7 @@ msgstr "Demônio de Magma"
 #: Source/translation_dummy.cpp:70
 msgctxt "monster"
 msgid "Blood Stone"
-msgstr "Pedra sanguínea"
+msgstr "Pedra Sanguínea"
 
 #: Source/translation_dummy.cpp:71
 msgctxt "monster"
@@ -8024,11 +8024,11 @@ msgstr "Elixir espectral"
 
 #: Source/translation_dummy.cpp:268
 msgid "Blood Stone"
-msgstr "Pedra sanguínea"
+msgstr "Pedra Sanguínea"
 
 #: Source/translation_dummy.cpp:269
 msgid "Cathedral Map"
-msgstr "Mapa da catedral"
+msgstr "Mapa da Catedral"
 
 #: Source/translation_dummy.cpp:270
 msgid "Heart"
