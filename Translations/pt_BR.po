@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DevilutionX\n"
 "POT-Creation-Date: 2024-07-23 12:46-0300\n"
-"PO-Revision-Date: 2025-02-13 22:07-0300\n"
+"PO-Revision-Date: 2025-02-13 22:39-0300\n"
 "Last-Translator: Altieres Lima da Silva <altieres.lima@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -654,7 +654,7 @@ msgstr "Jogadores:"
 
 #: Source/DiabloUI/multi/selgame.cpp:327
 msgid "Select Difficulty"
-msgstr "Selecionar Dificuldade"
+msgstr "Dificuldade"
 
 #: Source/DiabloUI/multi/selgame.cpp:345
 #, c++-format
@@ -5484,7 +5484,6 @@ msgstr "Você não encontrou o Elixir Dourado. Temo estar condenado à eternidad
 #: Source/textdat.cpp:176
 msgid "You have saved my soul from damnation, and for that I am in your debt. If there is ever a way that I can repay you from beyond the grave I will find it, but for now - take my helm. On the journey I am about to take I will have little use for it. May it protect you against the dark powers below. Go with the Light, my friend..."
 msgstr "Você salvou minha alma da danação, e por isso estou em dívida. Se houver como retribuir do além, eu encontrarei, mas por ora, aceite meu elmo. Na jornada que me aguarda, ele será inútil. Que ele te proteja das trevas. Vá com a Luz, alma corajosa..."
-
 
 #. TRANSLATORS: Quest dialog spoken by Cain
 #: Source/textdat.cpp:178
