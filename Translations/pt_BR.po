@@ -4017,7 +4017,7 @@ msgstr "Usar um cursor por hardware para itens."
 
 #: Source/options.cpp:992
 msgid "Hardware Cursor Maximum Size"
-msgstr "Tamanho Máximo do Cursor por Hardware"
+msgstr "Tamanho Máx. do Cursor por Hardware"
 
 #: Source/options.cpp:992
 msgid "Maximum width / height for the hardware cursor. Larger cursors fall back to software."
@@ -4061,7 +4061,7 @@ msgstr "Quando ativado, o mouse fica travado na janela do jogo."
 
 #: Source/options.cpp:1047
 msgid "Pause Game When Window Loses Focus"
-msgstr "Pausar o Jogo Quando a Janela Perder o Foco"
+msgstr "Pausar Jogo ao Perder Foco"
 
 #: Source/options.cpp:1047
 msgid "When enabled, the game will pause when focus is lost."
@@ -4329,11 +4329,11 @@ msgstr "Próx. nível"
 
 #: Source/panels/charpanel.cpp:145
 msgid "Base"
-msgstr "Base"
+msgstr "base"
 
 #: Source/panels/charpanel.cpp:146
 msgid "Now"
-msgstr "Atual"
+msgstr "atual"
 
 #: Source/panels/charpanel.cpp:147
 msgid "Strength"
@@ -4381,15 +4381,15 @@ msgstr "Mana"
 
 #: Source/panels/charpanel.cpp:191
 msgid "Resist magic"
-msgstr "Resistência à magia"
+msgstr "Resistên. à magia"
 
 #: Source/panels/charpanel.cpp:193
 msgid "Resist fire"
-msgstr "Resistência a fogo"
+msgstr "Resistên. à fogo"
 
 #: Source/panels/charpanel.cpp:195
 msgid "Resist lightning"
-msgstr "Resistência a raio"
+msgstr "Resistên. à raio"
 
 #: Source/panels/mainpanel.cpp:87
 msgid "char"
@@ -6420,14 +6420,14 @@ msgid ""
 "Out of darkness, out of mind,\n"
 "Cast down into the Halls of the Blind."
 msgstr ""
-"Posso ver o que não podes ver.\n"
-"Visão leitosa, depois olhos a apodrecer.\n"
-"Quando te vires, eles terão partido,\n"
-"Sussurrando sua canção escondida.\n"
-"Então verás o que não poderia ser,\n"
-"Sombras se movem onde a luz deveria estar.\n"
-"Da escuridão, da insanidade,\n"
-"Lançado às Câmaras da Cegueira."
+"Eu vejo o que não podes ver,\n"
+"Visão turva, os olhos vão corromper.\n"
+"Quando vires, eles não estarão,\n"
+"Sussurrando a oculta canção.\n"
+"Verás, então, o que não pode existir,\n"
+"Sombras dançam onde a luz devia ir.\n"
+"Da treva, da mente em agonia,\n"
+"Aos Salões dos Cegos cairás um dia."
 
 #. TRANSLATORS: Quest text spoken aloud from a book by player
 #: Source/textdat.cpp:477 Source/textdat.cpp:485 Source/textdat.cpp:493 Source/textdat.cpp:523 Source/textdat.cpp:531
