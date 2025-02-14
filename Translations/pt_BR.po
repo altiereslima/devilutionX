@@ -5265,7 +5265,7 @@ msgstr "Um livro que fala de uma câmara de ossos humanos? Ora, uma Câmara de O
 #. TRANSLATORS: Quest dialog spoken by Ogden
 #: Source/textdat.cpp:107
 msgid "I am afraid that I don't know anything about that, good master. Cain has many books that may be of some help."
-msgstr "Temo não saber nada sobre isso, bom(a) mestre(a). Cain tem vários livros que podem ser de alguma ajuda."
+msgstr "Temo não saber nada sobre isso. Cain tem vários livros que podem ser de alguma ajuda."
 
 #. TRANSLATORS: Quest dialog spoken by Pepin
 #: Source/textdat.cpp:109
@@ -5294,9 +5294,9 @@ msgid ""
 " \n"
 "Enter the Chamber of Bone at your own peril."
 msgstr ""
-"Tornar-se-á um(a) servo(a) eterno(a) dos Senhores Sombrios caso pereça neste domínio amaldiçoado. \n"
+"Perca aqui e sua alma será acorrentada aos Senhores Sombrios para sempre. \n"
 " \n"
-"Adentre a Câmara de Ossos por sua conta e risco."
+"Aventure-se na Câmara de Ossos... se ousar."
 
 #. TRANSLATORS: Quest dialog spoken by Wirt
 #: Source/textdat.cpp:119
@@ -5306,37 +5306,37 @@ msgstr "Um tesouro vasto e misterioso, está dizendo? Talvez eu me interesse em 
 #. TRANSLATORS: Quest dialog spoken by Cain
 #: Source/textdat.cpp:121
 msgid "It seems that the Archbishop Lazarus goaded many of the townsmen into venturing into the Labyrinth to find the King's missing son. He played upon their fears and whipped them into a frenzied mob. None of them were prepared for what lay within the cold earth... Lazarus abandoned them down there - left in the clutches of unspeakable horrors - to die."
-msgstr "Parece que o Arcebispo Lázarus instigou muitos dos aldeões a se aventurarem no Labirinto para encontrar o filho desaparecido do Rei. Ele se aproveitou de seus medos e os atiçou, transformando-os numa turba frenética. Nenhum deles estava preparado para o que jazia sob a terra fria... Lázarus os abandonou lá embaixo – entregues às garras de horrores indescritíveis – para que morressem."
+msgstr "Parece que o Arcebispo Lazarus incitou muitos dos habitantes da vila a se aventurarem no Labirinto para encontrar o filho desaparecido do Rei. Ele se aproveitou de seus medos e os açoitou em uma multidão enfurecida. Nenhum deles estava preparado para o que jazia dentro da terra fria... Lazarus os abandonou lá embaixo – deixados nas garras de horrores indizíveis – para morrer."
 
 #. TRANSLATORS: Quest dialog spoken by Ogden
 #: Source/textdat.cpp:123
 msgid "Yes, Farnham has mumbled something about a hulking brute who wielded a fierce weapon. I believe he called him a butcher."
-msgstr "Sim, Farnham resmungou algo sobre um brutamontes empunhando uma arma terrível. Creio que o chamou de Açougueiro."
+msgstr "Sim, Farnham murmurou algo sobre um brutamontes corpulento que empunhava uma arma feroz. Creio que ele o chamou de açougueiro."
 
 #. TRANSLATORS: Quest dialog spoken by Pepin
 #: Source/textdat.cpp:125
 msgid "By the Light, I know of this vile demon. There were many that bore the scars of his wrath upon their bodies when the few survivors of the charge led by Lazarus crawled from the Cathedral. I don't know what he used to slice open his victims, but it could not have been of this world. It left wounds festering with disease and even I found them almost impossible to treat. Beware if you plan to battle this fiend..."
-msgstr "Pela Luz, sei desse demônio vil. Muitos traziam as cicatrizes de sua ira em seus corpos quando os poucos sobreviventes da investida liderada por Lázarus rastejaram para fora da Catedral. Não sei o que ele usou para retalhar suas vítimas, mas não podia ser algo deste mundo. Deixava feridas que apodreciam com doenças, e até eu as considerei quase impossíveis de tratar. Tenha cautela se planeja enfrentar esse demônio..."
+msgstr "Pela Luz, eu conheço esse demônio vil. Muitos carregavam as cicatrizes de sua ira em seus corpos quando os poucos sobreviventes da investida liderada por Lazarus se arrastaram para fora da Catedral. Não sei o que ele usou para retalhar suas vítimas, mas não podia ser deste mundo. Deixava feridas que infeccionavam com doenças e até eu as achei quase impossíveis de tratar. Tenha cuidado se planeja enfrentar essa criatura..."
 
 #. TRANSLATORS: Quest dialog spoken by Gillian
 #: Source/textdat.cpp:127
 msgid "When Farnham said something about a butcher killing people, I immediately discounted it. But since you brought it up, maybe it is true."
-msgstr "Quando Farnham mencionou algo sobre um açougueiro matando pessoas, descartei imediatamente. Mas já que você tocou no assunto, talvez seja verdade."
+msgstr "Quando Farnham disse algo sobre um açougueiro matando pessoas, eu desconsiderei na hora. Mas já que você mencionou, talvez seja verdade."
 
 #. TRANSLATORS: Quest dialog spoken by Griswold
 #: Source/textdat.cpp:129
 msgid "I saw what Farnham calls the Butcher as it swathed a path through the bodies of my friends. He swung a cleaver as large as an axe, hewing limbs and cutting down brave men where they stood. I was separated from the fray by a host of small screeching demons and somehow found the stairway leading out. I never saw that hideous beast again, but his blood-stained visage haunts me to this day."
-msgstr "Eu vi o que Farnham chama de 'O Açougueiro' enquanto ele abria caminho através dos corpos de meus amigos. Ele brandia um cutelo tão grande quanto um machado, decepando membros e abatendo homens valorosos. Fui separado da luta por uma horda de pequenos demônios guinchantes e, de alguma forma, encontrei a escadaria de saída. Nunca mais vi aquela besta hedionda, mas sua aparência ensanguentada me assombra até hoje."
+msgstr "Eu vi o que Farnham chama de Açougueiro enquanto ele abria caminho através dos corpos de meus amigos. Ele brandia um cutelo tão grande quanto um machado, decepando membros e abatendo homens bravos onde estavam. Fui separado da batalha por uma horda de pequenos demônios estridentes e, de alguma forma, encontrei a escadaria que levava para fora. Nunca mais vi aquela besta hedionda, mas sua imagem manchada de sangue me assombra até hoje."
 
 #. TRANSLATORS: Quest dialog spoken by Farnham (*sad face*)
 #: Source/textdat.cpp:131
 msgid "Big! Big cleaver killing all my friends. Couldn't stop him, had to run away, couldn't save them. Trapped in a room with so many bodies... so many friends... NOOOOOOOOOO!"
-msgstr "Grande! Um cutelo enorme matando todos os meus amigos. Não consegui detê-lo, tive que fugir, não consegui salvá-los. Preso em uma sala com tantos corpos... tantos amigos... NÃÃÃÃÃÃÃÃÃO!"
+msgstr "Grande! Um cutelo enorme matando todos os meus amigos! Não consegui pará-lo, tive que fugir, não pude salvá-los. Preso em uma sala com tantos corpos... tantos amigos... NÃÃÃÃÃÃÃÃÃO!"
 
 #. TRANSLATORS: Quest dialog spoken by Adria
 #: Source/textdat.cpp:133
 msgid "The Butcher is a sadistic creature that delights in the torture and pain of others. You have seen his handiwork in the drunkard Farnham. His destruction will do much to ensure the safety of this village."
-msgstr "O Açougueiro é uma criatura sádica que se compraz com a tortura e a dor alheias. Você viu sua obra no bêbado Farnham. Sua destruição contribuirá muito para garantir a segurança desta vila."
+msgstr "O Açougueiro é uma criatura sádica que se deleita com a tortura e a dor dos outros. Você viu sua obra no bêbado do Farnham. Sua destruição fará muito para garantir a segurança desta vila."
 
 #. TRANSLATORS: Quest dialog spoken by Wirt
 #: Source/textdat.cpp:135
@@ -5345,14 +5345,14 @@ msgid ""
 " \n"
 "I'll put it bluntly - kill him before he kills you and adds your corpse to his collection."
 msgstr ""
-"Sei mais do que imagina sobre aquele demônio horripilante. Seus amiguinhos me agarraram e conseguiram arrancar minha perna antes que Griswold me arrancasse daquele buraco. \n"
+"Sei mais do que você imagina sobre aquele demônio horrendo. Seus amiguinhos me pegaram e conseguiram arrancar minha perna antes que Griswold me puxasse para fora daquele buraco. \n"
 " \n"
-"Serei direto – mate-o antes que ele o mate e adicione seu cadáver à coleção dele."
+"Serei franco – mate-o antes que ele mate você e adicione seu cadáver à coleção dele."
 
 #. TRANSLATORS: Quest dialog spoken by Wounded Townsman (Dying)
 #: Source/textdat.cpp:137
 msgid "Please, listen to me. The Archbishop Lazarus, he led us down here to find the lost prince. The bastard led us into a trap! Now everyone is dead... killed by a demon he called the Butcher. Avenge us! Find this Butcher and slay him so that our souls may finally rest..."
-msgstr "Por favor, escute-me. O Arcebispo Lázarus nos conduziu até aqui para encontrar o príncipe perdido. O maldito nos atraiu para uma armadilha! Agora todos estão mortos... assassinados por um demônio que ele chamava de O Açougueiro. Vingue-nos! Encontre esse Açougueiro e elimine-o para que nossas almas possam finalmente repousar..."
+msgstr "Por favor, escute-me. O Arcebispo Lazarus, ele nos conduziu até aqui embaixo para encontrar o príncipe perdido. O desgraçado nos levou para uma armadilha! Agora todos estão mortos... mortos por um demônio que ele chamava de Açougueiro. Vingue-nos! Encontre esse Açougueiro e mate-o para que nossas almas possam finalmente descansar..."
 
 #. TRANSLATORS: Quest dialog spoken by Cain
 #: Source/textdat.cpp:140
@@ -5361,9 +5361,9 @@ msgid ""
 " \n"
 "...Darkness shrouds the Hidden. Eyes glowing unseen with only the sounds of razor claws briefly scraping to torment those poor souls who have been made sightless for all eternity. The prison for those so damned is named the Halls of the Blind..."
 msgstr ""
-"Você recita uma rima interessante, escrita num estilo que me lembra outras obras. Deixe-me recordar... como era mesmo?\n"
+"Você recita uma rima interessante, escrita em um estilo que me lembra outras obras. Deixe-me pensar... qual era mesmo?\n"
 " \n"
-"...A escuridão envolve os Ocultos. Olhos brilhando invisíveis, apenas com os sons de garras afiadas arranhando brevemente para atormentar aquelas pobres almas que foram tornadas cegas por toda a eternidade. A prisão para os assim amaldiçoados é chamada de Salões dos Cegos..."
+"...A escuridão encobre o Oculto. Olhos brilhando, invisíveis, com apenas os sons de garras afiadas arranhando brevemente para atormentar aquelas pobres almas que foram privadas da visão por toda a eternidade. A prisão para esses condenados é chamada de Salões dos Cegos..."
 
 #. TRANSLATORS: Quest dialog spoken by Ogden
 #: Source/textdat.cpp:142
@@ -5372,29 +5372,29 @@ msgid ""
 " \n"
 "What? Oh, yes... uh, well, I suppose you could see what someone else knows."
 msgstr ""
-"Nunca apreciei muito poesia. Ocasionalmente, contratava menestréis quando a estalagem prosperava, mas isso parece ter sido há muito tempo. \n"
+"Nunca liguei muito para poesia. Ocasionalmente, eu contratava menestréis quando a estalagem ia bem, mas isso parece ter sido há muito tempo. \n"
 " \n"
-"O quê? Ah, sim... bem, suponho que você possa ver o que outra pessoa sabe sobre isso."
+"O quê? Ah, sim... uh, bem, suponho que você possa perguntar a outra pessoa sobre isso."
 
 #. TRANSLATORS: Quest dialog spoken by Pepin
 #: Source/textdat.cpp:144
 msgid "This does seem familiar, somehow. I seem to recall reading something very much like that poem while researching the history of demonic afflictions. It spoke of a place of great evil that... wait - you're not going there are you?"
-msgstr "Isso de alguma forma parece familiar. Lembro-me de ter lido algo muito semelhante a esse poema enquanto pesquisava a história das aflições demoníacas. Falava de um lugar de grande mal que... espere – você não pretende ir até lá, pretende?"
+msgstr "Isso, de alguma forma, me parece familiar. Lembro-me de ter lido algo muito parecido com esse poema enquanto pesquisava a história das aflições demoníacas. Falava de um lugar de grande mal que... espere – você não está indo para lá, está?"
 
 #. TRANSLATORS: Quest dialog spoken by Gillian
 #: Source/textdat.cpp:146
 msgid "If you have questions about blindness, you should talk to Pepin. I know that he gave my grandmother a potion that helped clear her vision, so maybe he can help you, too."
-msgstr "Se tiver perguntas sobre cegueira, fale com Pepin. Sei que ele deu à minha avó uma poção que ajudou a clarear a visão dela, então talvez ele possa ajudá-lo também."
+msgstr "Se você tem perguntas sobre cegueira, deveria falar com Pepin. Sei que ele deu à minha avó uma poção que ajudou a clarear a visão dela, então talvez ele possa te ajudar também."
 
 #. TRANSLATORS: Quest dialog spoken by Griswold
 #: Source/textdat.cpp:148
 msgid "I am afraid that I have neither heard nor seen a place that matches your vivid description, my friend. Perhaps Cain the Storyteller could be of some help."
-msgstr "Receio nunca ter ouvido falar ou visto um lugar que corresponda à sua descrição vívida, meu(inha) amigo(a). Talvez Cain, o Contador de Histórias, possa ser de alguma ajuda."
+msgstr "Receio nunca ter ouvido falar ou visto um lugar que corresponda à sua descrição vívida, alma corajosa. Talvez Cain, o Contador de Histórias, possa ser de alguma ajuda."
 
 #. TRANSLATORS: Quest dialog spoken by Farnham
 #: Source/textdat.cpp:150
 msgid "Look here... that's pretty funny, huh? Get it? Blind - look here?"
-msgstr "Olha aqui... é bem engraçado, né? Entendeu? Cego – olha aqui?"
+msgstr "Olha só... isso é muito engraçado, hein? Entendeu? Cego – olha só?"
 
 #. TRANSLATORS: Quest dialog spoken by Adria
 #: Source/textdat.cpp:152
@@ -5403,9 +5403,9 @@ msgid ""
 " \n"
 "Tread carefully or you may yourself be staying much longer than you had anticipated."
 msgstr ""
-"Este é um lugar de grande angústia e terror, e por isso serve bem ao seu mestre. \n"
+"Este é um lugar de grande angústia e terror, e por isso serve bem a seu mestre. \n"
 " \n"
-"Caminhe com cuidado, ou poderá acabar ficando muito mais tempo do que havia previsto."
+"Caminhe com cuidado, ou você mesmo poderá acabar ficando muito mais tempo do que havia previsto."
 
 #. TRANSLATORS: Quest dialog spoken by Wirt
 #: Source/textdat.cpp:154
@@ -5419,34 +5419,34 @@ msgid ""
 " \n"
 "Of those who were caught within the grasp of the King's Curse, Lachdanan would be the least likely to submit to the darkness without a fight, so I suppose that your story could be true. If I were in your place, my friend, I would find a way to release him from his torture."
 msgstr ""
-"Afirma ter falado com Lachdanan? Ele foi um grande herói em vida. Lachdanan foi um homem honrado e justo que serviu seu Rei fielmente por anos. Mas, claro, você já sabe disso.\n"
+"Afirma ter falado com Lachdanan? Ele foi um grande herói em vida. Lachdanan foi um homem honrado e justo que serviu seu Rei fielmente por anos. Mas, claro, já sabe disso.\n"
 " \n"
-"Dentre aqueles que foram aprisionados pela Maldição do Rei, Lachdanan seria o menos propenso a se submeter à escuridão sem lutar, então suponho que sua história possa ser verdadeira. Se eu estivesse em seu lugar, meu(inha) amigo(a), encontraria uma maneira de libertá-lo de sua tortura."
+"Dentre aqueles que foram aprisionados pela Maldição do Rei, Lachdanan seria o menos propenso a se submeter à escuridão sem lutar, então suponho que sua história pode ser verdadeira. Se eu estivesse em seu lugar, nobre alma, encontraria uma maneira de libertá-lo de sua tortura."
 
 #. TRANSLATORS: Quest dialog spoken by Ogden
 #: Source/textdat.cpp:158
 msgid "You speak of a brave warrior long dead! I'll have no such talk of speaking with departed souls in my inn yard, thank you very much."
-msgstr "Você fala de um bravo guerreiro morto há muito tempo! Não admitirei conversas sobre falar com almas que partiram no pátio da minha estalagem, muito obrigado."
+msgstr "Você fala de um bravo guerreiro morto há muito tempo! Não quero esse tipo de conversa sobre falar com almas que já se foram no pátio da minha estalagem, muito obrigado."
 
 #. TRANSLATORS: Quest dialog spoken by Pepin
 #: Source/textdat.cpp:160
 msgid "A golden elixir, you say. I have never concocted a potion of that color before, so I can't tell you how it would effect you if you were to try to drink it. As your healer, I strongly advise that should you find such an elixir, do as Lachdanan asks and DO NOT try to use it."
-msgstr "Um elixir dourado, diz? Nunca preparei uma poção dessa cor antes, então não posso dizer como isso o afetaria se tentasse bebê-la. Como seu curandeiro, aconselho fortemente que, caso encontre tal elixir, faça como Lachdanan pede e NÃO tente usá-lo."
+msgstr "Um elixir dourado, você diz? Nunca preparei uma poção dessa cor antes, então não posso dizer como ela o afetaria se você tentasse bebê-la. Como seu curandeiro, aconselho fortemente que, caso encontre tal elixir, faça como Lachdanan pede e NÃO tente usá-lo."
 
 #. TRANSLATORS: Quest dialog spoken by Gillian
 #: Source/textdat.cpp:162
 msgid "I've never heard of a Lachdanan before. I'm sorry, but I don't think that I can be of much help to you."
-msgstr "Nunca ouvi falar de um Lachdanan antes. Sinto muito, mas acho que não poderei ser de muita ajuda."
+msgstr "Nunca ouvi falar de um Lachdanan antes. Sinto muito, mas acho que não posso te ajudar muito."
 
 #. TRANSLATORS: Quest dialog spoken by Ogden
 #: Source/textdat.cpp:164
 msgid "If it is actually Lachdanan that you have met, then I would advise that you aid him. I dealt with him on several occasions and found him to be honest and loyal in nature. The curse that fell upon the followers of King Leoric would fall especially hard upon him."
-msgstr "Se foi realmente Lachdanan que encontrou, aconselho que o ajude. Lidei com ele em diversas ocasiões e o considerei honesto e leal por natureza. A maldição que caiu sobre os seguidores do Rei Leoric pesaria especialmente sobre ele."
+msgstr "Se foi realmente Lachdanan que você encontrou, então eu aconselho que você o ajude. Negociei com ele em diversas ocasiões e o achei honesto e leal por natureza. A maldição que caiu sobre os seguidores do Rei Leoric cairia especialmente forte sobre ele."
 
 #. TRANSLATORS: Quest dialog spoken by Farnham
 #: Source/textdat.cpp:166
 msgid " Lachdanan is dead. Everybody knows that, and you can't fool me into thinking any other way. You can't talk to the dead. I know!"
-msgstr "Lachdanan está morto. Todo mundo sabe disso, e você não vai me enganar fazendo-me pensar o contrário. Não se pode falar com os mortos. Eu sei!"
+msgstr "Lachdanan está morto. Todo mundo sabe disso, e você não pode me enganar para pensar de outra forma. Você não pode falar com os mortos. Eu sei!"
 
 #. TRANSLATORS: Quest dialog spoken by Adria
 #: Source/textdat.cpp:168
@@ -5455,14 +5455,14 @@ msgid ""
 " \n"
 "I sense in him honor and great guilt. Aid him, and you aid all of Tristram."
 msgstr ""
-"Você poderá encontrar pessoas presas no Labirinto, como Lachdanan. \n"
+"Você pode encontrar pessoas que estão presas dentro do Labirinto, como Lachdanan. \n"
 " \n"
-"Sinto nele honra e grande culpa. Ajude-o, e ajudará toda Tristram."
+"Sinto nele honra e grande culpa. Ajude-o, e você ajudará toda Tristram."
 
 #. TRANSLATORS: Quest dialog spoken by Wirt
 #: Source/textdat.cpp:170
 msgid "Wait, let me guess. Cain was swallowed up in a gigantic fissure that opened beneath him. He was incinerated in a ball of hellfire, and can't answer your questions anymore. Oh, that isn't what happened? Then I guess you'll be buying something or you'll be on your way."
-msgstr "Espere, deixe-me adivinhar. Cain foi engolido por uma fissura gigantesca que se abriu sob seus pés. Ele foi incinerado numa bola de fogo infernal e não pode mais responder às suas perguntas. Oh, não foi isso que aconteceu? Então suponho que você comprará algo ou seguirá seu caminho."
+msgstr "Espere, deixe-me adivinhar. Cain foi engolido por uma fissura gigantesca que se abriu sob ele. Ele foi incinerado em uma bola de fogo infernal e não pode mais responder às suas perguntas. Oh, não foi isso que aconteceu? Então, suponho que você vá comprar algo ou seguir seu caminho."
 
 #. TRANSLATORS: Quest dialog spoken by Lachdanan (in despair)
 #: Source/textdat.cpp:172
@@ -5471,39 +5471,40 @@ msgid ""
 " \n"
 "I have heard of a Golden Elixir that could lift the Curse and allow my soul to rest, but I have been unable to find it. My strength now wanes, and with it the last of my humanity as well. Please aid me and find the Elixir. I will repay your efforts - I swear upon my honor."
 msgstr ""
-"Por favor, não me mate, apenas escute. Eu fui Capitão dos Cavaleiros do Rei Leoric, defendendo as leis desta terra com justiça e honra. Então sua Maldição sombria caiu sobre nós pelo papel que desempenhamos em sua morte trágica. Enquanto meus companheiros Cavaleiros sucumbiam a seu destino distorcido, fugi da câmara mortuária do Rei, buscando alguma forma de me libertar da Maldição. Falhei...\n"
+"Por favor, não me mate, apenas me ouça. Eu fui o Capitão dos Cavaleiros do Rei Leoric, defendendo as leis desta terra com justiça e honra. Então, sua Maldição sombria caiu sobre nós pelo papel que desempenhamos em sua trágica morte. Enquanto meus companheiros Cavaleiros sucumbiam ao seu destino distorcido, eu fugi da câmara mortuária do Rei, procurando alguma forma de me libertar da Maldição. Eu falhei...\n"
 " \n"
-"Ouvi falar de um Elixir Dourado que poderia suspender a Maldição e permitir que minha alma repousasse, mas não consegui encontrá-lo. Minha força agora diminui, e com ela, o último resquício de minha humanidade também. Por favor, ajude-me e encontre o Elixir. Recompensarei seus esforços – juro por minha honra."
+"Ouvi falar de um Elixir Dourado que poderia suspender a Maldição e permitir que minha alma descansasse, mas não consegui encontrá-lo. Minha força agora diminui e, com ela, o último resquício de minha humanidade também. Por favor, ajude-me a encontrar o Elixir. Eu recompensarei seus esforços – juro por minha honra."
 
 #. TRANSLATORS: Quest dialog spoken by Lachdanan (in despair)
 #: Source/textdat.cpp:174
 msgid "You have not found the Golden Elixir. I fear that I am doomed for eternity. Please, keep trying..."
-msgstr "Você não encontrou o Elixir Dourado. Temo estar condenado pela eternidade. Por favor, continue tentando..."
+msgstr "Você não encontrou o Elixir Dourado. Temo estar condenado à eternidade. Por favor, continue tentando..."
 
 #. TRANSLATORS: Quest dialog spoken by Lachdanan (Quest End)
 #: Source/textdat.cpp:176
 msgid "You have saved my soul from damnation, and for that I am in your debt. If there is ever a way that I can repay you from beyond the grave I will find it, but for now - take my helm. On the journey I am about to take I will have little use for it. May it protect you against the dark powers below. Go with the Light, my friend..."
-msgstr "Você salvou minha alma da danação, e por isso estou em dívida com você. Se houver alguma forma de retribuir do além-túmulo, eu a encontrarei, mas, por enquanto, pegue meu elmo. Na jornada que estou prestes a fazer, ele terá pouca serventia. Que ele o proteja contra os poderes sombrios abaixo. Vá com a Luz, meu(inha) amigo(a)..."
+msgstr "Você salvou minha alma da danação, e por isso estou em dívida. Se houver como retribuir do além, eu encontrarei, mas por ora, aceite meu elmo. Na jornada que me aguarda, ele será inútil. Que ele te proteja das trevas. Vá com a Luz, alma corajosa..."
+
 
 #. TRANSLATORS: Quest dialog spoken by Cain
 #: Source/textdat.cpp:178
 msgid "Griswold speaks of The Anvil of Fury - a legendary artifact long searched for, but never found. Crafted from the metallic bones of the Razor Pit demons, the Anvil of Fury was smelt around the skulls of the five most powerful magi of the underworld. Carved with runes of power and chaos, any weapon or armor forged upon this Anvil will be immersed into the realm of Chaos, imbedding it with magical properties. It is said that the unpredictable nature of Chaos makes it difficult to know what the outcome of this smithing will be..."
-msgstr "Griswold fala da Bigorna da Fúria, um artefato lendário há muito procurado, mas jamais encontrado. Forjada a partir dos ossos metálicos dos demônios do Fosso das Lâminas, a Bigorna da Fúria foi fundida em torno dos crânios dos cinco magos mais poderosos do Submundo. Entalhada com runas de poder e caos, qualquer arma ou armadura forjada nesta Bigorna será imersa no reino do Caos, impregnando-a com propriedades mágicas. Dizem que a natureza imprevisível do Caos torna difícil saber qual será o resultado dessa forja..."
+msgstr "Griswold fala da Bigorna da Fúria – um artefato lendário há muito procurado, mas nunca encontrado. Forjada a partir dos ossos metálicos dos demônios do Fosso das Lâminas, a Bigorna da Fúria foi fundida em torno dos crânios dos cinco magos mais poderosos do submundo. Entalhada com runas de poder e caos, qualquer arma ou armadura forjada nesta Bigorna será imersa no reino do Caos, impregnando-a com propriedades mágicas. Dizem que a natureza imprevisível do Caos torna difícil saber qual será o resultado dessa forja..."
 
 #. TRANSLATORS: Quest dialog spoken by Ogden
 #: Source/textdat.cpp:180
 msgid "Don't you think that Griswold would be a better person to ask about this? He's quite handy, you know."
-msgstr "Não crê que Griswold seria a pessoa mais indicada para perguntar sobre isso? Ele é bastante habilidoso, sabe."
+msgstr "Você não acha que Griswold seria a pessoa mais indicada para perguntar sobre isso? Ele é bem habilidoso, sabe."
 
 #. TRANSLATORS: Quest dialog spoken by Pepin
 #: Source/textdat.cpp:182
 msgid "If you had been looking for information on the Pestle of Curing or the Silver Chalice of Purification, I could have assisted you, my friend. However, in this matter, you would be better served to speak to either Griswold or Cain."
-msgstr "Se estivesse buscando informações sobre o Pilão da Cura ou o Cálice de Prata da Purificação, eu poderia auxiliá-lo, meu(inha) amigo(a). Contudo, neste assunto, seria melhor atendido se falasse com Griswold ou Cain."
+msgstr "Se estivesses a procurar informações sobre o Pilão da Cura ou o Cálice de Prata da Purificação, eu poderia ser de auxílio.  Quanto a este assunto, porém, o mais sensato seria consultar Griswold ou Cain."
 
 #. TRANSLATORS: Quest dialog spoken by Gillian
 #: Source/textdat.cpp:184
 msgid "Griswold's father used to tell some of us when we were growing up about a giant anvil that was used to make mighty weapons. He said that when a hammer was struck upon this anvil, the ground would shake with a great fury. Whenever the earth moves, I always remember that story."
-msgstr "O pai de Griswold costumava contar a alguns de nós, quando éramos crianças, sobre uma bigorna gigante que era usada para forjar armas poderosas. Ele dizia que quando um martelo golpeava esta bigorna, o chão tremia com grande fúria. Sempre que a terra se move, recordo essa história."
+msgstr "O pai de Griswold costumava contar a alguns de nós, quando estávamos crescendo, sobre uma bigorna gigante que era usada para fazer armas poderosas. Ele dizia que, quando um martelo golpeava essa bigorna, o chão tremia com grande fúria. Sempre que a terra se move, eu me lembro dessa história."
 
 #. TRANSLATORS: Quest dialog spoken by Griswold
 #: Source/textdat.cpp:186
@@ -5516,38 +5517,38 @@ msgid ""
 " \n"
 "Find the Anvil for me, and I'll get to work!"
 msgstr ""
-"Saudações! É sempre um prazer ver um de meus melhores clientes! Sei que tem se aventurado mais fundo no Labirinto, e há uma história que me contaram que talvez ache que valha a pena ouvir...\n"
+"Saudações! É sempre um prazer ver um dos meus melhores clientes! Sei que você tem se aventurado mais profundamente no Labirinto, e há uma história que me contaram que talvez você ache que valha a pena ouvir...\n"
 " \n"
-"Um dos homens que retornou do Labirinto falou-me sobre uma bigorna mística que encontrou durante sua fuga. Sua descrição me lembrou de lendas que ouvi em minha juventude sobre a flamejante Forja Infernal, onde poderosas armas mágicas são criadas. A lenda dizia que nas profundezas da Forja Infernal repousava a Bigorna da Fúria! Esta Bigorna continha em si a própria essência do demoníaco Submundo...\n"
+"Um dos homens que retornaram do Labirinto me contou sobre uma bigorna mística que ele encontrou durante sua fuga. A descrição dele me lembrou das lendas que ouvi na minha juventude sobre a flamejante Forja Infernal, onde poderosas armas mágicas são criadas. A lenda dizia que, nas profundezas da Forja Infernal, repousava a Bigorna da Fúria! Essa Bigorna continha em si a própria essência do submundo demoníaco...\n"
 " \n"
-"Diz-se que qualquer arma forjada na Bigorna flamejante é imbuída com grande poder. Se esta bigorna for de fato a Bigorna da Fúria, talvez eu possa criar para você uma arma capaz de derrotar até mesmo o mais sombrio senhor do Inferno! \n"
+"Diz-se que qualquer arma criada na Bigorna flamejante é imbuída de grande poder. Se essa bigorna for realmente a Bigorna da Fúria, talvez eu possa fazer para você uma arma capaz de derrotar até mesmo o mais sombrio senhor do Inferno! \n"
 " \n"
-"Encontre a Bigorna para mim, e porei mãos à obra!"
+"Encontre a Bigorna para mim, e eu começarei a trabalhar!"
 
 #. TRANSLATORS: Quest dialog spoken by Griswold
 #: Source/textdat.cpp:188
 msgid "Nothing yet, eh? Well, keep searching. A weapon forged upon the Anvil could be your best hope, and I am sure that I can make you one of legendary proportions."
-msgstr "Nada ainda, hein? Bem, continue a busca. Uma arma forjada na Bigorna pode ser sua melhor esperança, e tenho certeza de que posso fazer uma de proporções lendárias para você."
+msgstr "Nada ainda, hein? Bem, continue procurando. Uma arma forjada na Bigorna pode ser sua melhor esperança, e tenho certeza de que posso fazer uma de proporções lendárias para você."
 
 #. TRANSLATORS: Quest dialog spoken by Griswold
 #: Source/textdat.cpp:190
 msgid "I can hardly believe it! This is the Anvil of Fury - good work, my friend. Now we'll show those bastards that there are no weapons in Hell more deadly than those made by men! Take this and may Light protect you."
-msgstr "Custa-me acreditar! Esta é a Bigorna da Fúria – excelente trabalho, meu(inha) amigo(a). Agora mostraremos a esses malditos que não há armas no Inferno mais mortais do que aquelas feitas por homens! Tome isto, e que a Luz o proteja."
+msgstr "Mal posso crer! A Bigorna da Fúria! Trabalho impecável. Mostraremos a esses demônios que armas humanas superam as do Inferno!  Pegue isto, e que a Luz te guarde."
 
 #. TRANSLATORS: Quest dialog spoken by Farnham
 #: Source/textdat.cpp:192
 msgid "Griswold can't sell his anvil. What will he do then? And I'd be angry too if someone took my anvil!"
-msgstr "Griswold não pode vender sua bigorna. O que ele fará então? E eu também ficaria furioso se alguém levasse minha bigorna!"
+msgstr "Griswold não pode vender sua bigorna. O que ele vai fazer então? E eu também ficaria com raiva se alguém pegasse minha bigorna!"
 
 #. TRANSLATORS: Quest dialog spoken by Adria
 #: Source/textdat.cpp:194
 msgid "There are many artifacts within the Labyrinth that hold powers beyond the comprehension of mortals. Some of these hold fantastic power that can be used by either the Light or the Darkness. Securing the Anvil from below could shift the course of the Sin War towards the Light."
-msgstr "Há muitos artefatos no Labirinto que possuem poderes além da compreensão dos mortais. Alguns deles detêm um poder fantástico que pode ser usado tanto pela Luz quanto pelas Trevas. Assegurar a Bigorna de lá de baixo poderia mudar o curso da Guerra do Pecado em direção à Luz."
+msgstr "Existem muitos artefatos dentro do Labirinto que possuem poderes além da compreensão dos mortais. Alguns deles detêm um poder fantástico que pode ser usado tanto pela Luz quanto pelas Trevas. Garantir a Bigorna lá de baixo poderia mudar o curso da Guerra do Pecado em direção à Luz."
 
 #. TRANSLATORS: Quest dialog spoken by Wirt
 #: Source/textdat.cpp:196
 msgid "If you were to find this artifact for Griswold, it could put a serious damper on my business here. Awwww, you'll never find it."
-msgstr "Se você encontrasse este artefato para Griswold, isso poderia prejudicar seriamente meus negócios aqui. Ahhh, você nunca o encontrará."
+msgstr "Se você encontrasse esse artefato para Griswold, isso poderia prejudicar seriamente meus negócios aqui. Ahhh, você nunca vai encontrá-lo."
 
 #. TRANSLATORS: Quest dialog spoken by Cain
 #: Source/textdat.cpp:198
@@ -5560,33 +5561,33 @@ msgid ""
 " \n"
 "Just before Arkaine died, his armor was hidden away in a secret vault. It is said that when this holy armor is again needed, a hero will arise to don Valor once more. Perhaps you are that hero..."
 msgstr ""
-"O Portal de Sangue e os Salões de Fogo são marcos de origem mística. Onde quer que este livro que você leu resida, é certamente um lugar de grande poder.\n"
+"O Portal de Sangue e os Salões de Fogo são marcos de origem mística. O lugar de onde provém esse livro que leste emana poder.\n"
 " \n"
-"Lendas falam de um pedestal esculpido em pedra obsidiana, com uma poça de sangue fervente sobre sua superfície incrustada de ossos. Há também alusões a Pedras de Sangue que abrirão uma porta que guarda um antigo tesouro...\n"
+"As lendas narram sobre um pedestal de obsidiana, com sangue fervente a borbulhar sobre sua superfície de ossos. Aludem também a Pedras de Sangue, capazes de abrir a porta que guarda um tesouro ancestral...\n"
 " \n"
-"A natureza deste tesouro é envolta em especulações, meu(inha) amigo(a), mas diz-se que o antigo herói Arkaine colocou a armadura sagrada Bravura em um recesso secreto. Arkaine foi o primeiro mortal a mudar o rumo da Guerra do Pecado e afugentar as legiões das trevas de volta aos Infernos Ardentes.\n"
+"A natureza desse tesouro, peregrino, permanece nas brumas da especulação, mas conta-se que o herói ancestral, Arkaine, depositou a armadura sagrada, Valor, num cofre secreto. Arkaine, o primeiro mortal a inverter a maré da Guerra do Pecado, rechaçando as legiões sombrias de volta aos Infernos Ardentes.\n"
 " \n"
-"Pouco antes de Arkaine morrer, sua armadura foi escondida em um cofre secreto. Diz-se que quando esta armadura sagrada for novamente necessária, um herói surgirá para vestir Bravura mais uma vez. Talvez você seja esse herói..."
+"Pouco antes de sua morte, Arkaine ocultou sua armadura num cofre. Dizem que, quando a sagrada armadura for novamente necessária, um herói surgirá para vestir a armadura Valor mais uma vez. Talvez... sejais vós esse herói."
 
 #. TRANSLATORS: Quest dialog spoken by Ogden
 #: Source/textdat.cpp:200
 msgid "Every child hears the story of the warrior Arkaine and his mystic armor known as Valor. If you could find its resting place, you would be well protected against the evil in the Labyrinth."
-msgstr "Toda criança ouve a história do guerreiro Arkaine e sua armadura mística conhecida como Bravura. Se pudesse encontrar seu local de repouso, estaria bem protegido(a) contra o mal no Labirinto."
+msgstr "Desde criança, ouve-se falar do guerreiro Arkaine e de sua armadura mística, Valor.  Aquele que encontrar seu repouso estará a salvo das trevas do Labirinto."
 
 #. TRANSLATORS: Quest dialog spoken by Pepin
 #: Source/textdat.cpp:202
 msgid "Hmm... it sounds like something I should remember, but I've been so busy learning new cures and creating better elixirs that I must have forgotten. Sorry..."
-msgstr "Hmm... isso soa como algo que eu deveria recordar, mas estive tão ocupado aprendendo novas curas e criando elixires melhores que devo ter esquecido. Desculpe..."
+msgstr "Hmm... isso soa como algo que eu deveria me lembrar, mas tenho estado tão ocupado aprendendo novas curas e criando elixires melhores que devo ter esquecido. Desculpe..."
 
 #. TRANSLATORS: Quest dialog spoken by Gillian
 #: Source/textdat.cpp:204
 msgid "The story of the magic armor called Valor is something I often heard the boys talk about. You had better ask one of the men in the village."
-msgstr "A história da armadura mágica chamada Bravura é algo que eu costumava ouvir os rapazes comentarem. É melhor perguntar a um dos homens da vila."
+msgstr "A história da armadura mágica chamada Valor é algo que eu costumava ouvir os garotos conversarem. É melhor você perguntar a um dos homens da vila."
 
 #. TRANSLATORS: Quest dialog spoken by Griswold
 #: Source/textdat.cpp:206
 msgid "The armor known as Valor could be what tips the scales in your favor. I will tell you that many have looked for it - including myself. Arkaine hid it well, my friend, and it will take more than a bit of luck to unlock the secrets that have kept it concealed oh, lo these many years."
-msgstr "A armadura conhecida como Bravura pode ser o que fará a balança pender a seu favor. Direi que muitos a procuraram – inclusive eu. Arkaine a escondeu bem, meu(inha) amigo(a), e será preciso mais do que um pouco de sorte para desvendar os segredos que a mantiveram oculta por todos esses longos anos."
+msgstr "A armadura conhecida como Valor pode ser o que inclina a balança a seu favor.  Muitos a cobiçaram, até este ferreiro.  Arkaine a escondeu a sete chaves, e não será a sorte, mas a sagacidade, que romperá o véu de tantos anos."
 
 #. TRANSLATORS: Quest dialog "spoken" by Farnham
 #: Source/textdat.cpp:208
@@ -5611,7 +5612,7 @@ msgid ""
 " \n"
 "No one has ever figured out where Arkaine stashed the stuff, and if my contacts couldn't find it, I seriously doubt you ever will either."
 msgstr ""
-"Pretende encontrar a armadura conhecida como Bravura? \n"
+"Pretende encontrar a armadura conhecida como Valor? \n"
 " \n"
 "Ninguém jamais descobriu onde Arkaine a escondeu, e se meus contatos não conseguiram encontrá-la, duvido muito que você o consiga."
 
@@ -5633,7 +5634,7 @@ msgstr ""
 #. TRANSLATORS: Quest dialog spoken by Ogden
 #: Source/textdat.cpp:215
 msgid "I am afraid that I haven't heard anything about such a vicious warrior, good master. I hope that you do not have to fight him, for he sounds extremely dangerous."
-msgstr "Temo não ter ouvido nada sobre um guerreiro tão cruel, bom(a) mestre(a). Espero que não tenha que lutar contra ele, pois parece extremamente perigoso."
+msgstr "Receio desconhecer tal guerreiro cruel, nobre pessoa.  Espero que não precise enfrentá-lo, pois soa deveras perigoso."
 
 #. TRANSLATORS: Quest dialog spoken by Pepin
 #: Source/textdat.cpp:217
@@ -5648,12 +5649,12 @@ msgstr "Se vai enfrentar um oponente tão feroz, que a Luz seja seu guia e seu e
 #. TRANSLATORS: Quest dialog spoken by Griswold
 #: Source/textdat.cpp:221
 msgid "Dark and wicked legends surrounds the one Warlord of Blood. Be well prepared, my friend, for he shows no mercy or quarter."
-msgstr "Lendas sombrias e perversas cercam o Senhor da Guerra de Sangue. Esteja bem preparado(a), meu(inha) amigo(a), pois ele não demonstra misericórdia ou trégua."
+msgstr "Lendas sombrias e cruéis envolvem o Senhor da Guerra Sangrenta.  Prepare-se bem, pois dele não espere clemência ou trégua."
 
 #. TRANSLATORS: Quest dialog spoken by Farnham
 #: Source/textdat.cpp:223
 msgid "Always you gotta talk about Blood? What about flowers, and sunshine, and that pretty girl that brings the drinks. Listen here, friend - you're obsessive, you know that?"
-msgstr "Você sempre tem que falar de Sangue? Que tal flores, a luz do sol e aquela moça bonita que serve as bebidas? Escute aqui, amigo(a) – você é obcecado(a), sabia?"
+msgstr "Você sempre tem que falar de Sangue? Que tal flores, a luz do sol e aquela moça bonita que serve as bebidas? Escute aqui, você tem uma obsessão, sabia?"
 
 #. TRANSLATORS: Quest dialog spoken by Adria
 #: Source/textdat.cpp:225
@@ -7488,7 +7489,7 @@ msgstr "Kaikatarro"
 #: Source/translation_dummy.cpp:151
 msgctxt "monster"
 msgid "Arch-Bishop Lazarus"
-msgstr "Arcebispo Lázarus"
+msgstr "Arcebispo Lazarus"
 
 #: Source/translation_dummy.cpp:152
 msgctxt "monster"
@@ -8052,7 +8053,7 @@ msgstr "Pergaminho de portal da cidade"
 
 #: Source/translation_dummy.cpp:275 Source/translation_dummy.cpp:497
 msgid "Arkaine's Valor"
-msgstr "Bravura de Arkaine"
+msgstr "Valor de Arkaine"
 
 #: Source/translation_dummy.cpp:276 Source/translation_dummy.cpp:354
 msgid "Potion of Full Healing"
@@ -8072,7 +8073,7 @@ msgstr "Armadura de placa bovina"
 
 #: Source/translation_dummy.cpp:280
 msgid "Staff of Lazarus"
-msgstr "Cajado de Lázarus"
+msgstr "Cajado de Lazarus"
 
 #: Source/translation_dummy.cpp:281 Source/translation_dummy.cpp:371
 msgid "Scroll of Resurrect"
